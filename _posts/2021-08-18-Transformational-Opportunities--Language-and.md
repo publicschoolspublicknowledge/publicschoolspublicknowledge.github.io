@@ -5,7 +5,7 @@ categories: Blog
 tags: Scaffolding, Common Core, English Language Learners, English Language Arts Standards, Minority Students, Second Language Acquisition, Apprenticeship, Diverse Groups of Students
 ---
 
-### Author(s): Kibler, Amanda K, Aída Walqui, & George C Bunch
+## Author(s): Kibler, Amanda K, Aída Walqui, & George C Bunch
 
 ### Published: March 2015 in TESOL Journal
 

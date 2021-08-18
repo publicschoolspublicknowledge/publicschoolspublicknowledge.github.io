@@ -5,7 +5,7 @@ categories: Blog
 tags: ulturally Responsive Teaching, Sociocultural Issues, Racism, Sexism, Ableism, Hetero-sexism, Anti-semitism, Testing, Learning Environment, Classroom Community
 ---
 
-### Author(s): Coffey, Heather, Abiola Farinde-Wu
+## Author(s): Coffey, Heather, Abiola Farinde-Wu
 
 ### Published: November 2016 in Teaching and Teacher Education
 

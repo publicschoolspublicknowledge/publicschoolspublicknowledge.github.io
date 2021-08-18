@@ -5,7 +5,7 @@ categories: Blog
 tags: Learner Engagement, Teaching Methods, Discussion (Teaching Technique), Factor Analysis, College Faculty, Correlation, Teacher Student Relationship, Undergraduate Students, Communications, Introductory Courses, Questionnaires, Measures (Individuals), Maximum Likelihood Statistics, Construct Validity, Student Attitudes, Likert Scales, Structural Equation Models, Statistical Analysis
 ---
 
-### Author(s): Finn, Amber N., Paul Schrodt
+## Author(s): Finn, Amber N., Paul Schrodt
 
 ### Published: April 2016 in Communication Education
 

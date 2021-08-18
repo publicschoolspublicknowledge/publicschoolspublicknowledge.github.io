@@ -5,7 +5,7 @@ categories: Blog
 tags: English language learners, Learning disabilities, Special education, Special needs students, Native languages, Public schools, Student diversity, Language proficiency, assessment.
 ---
 
-### Author(s): Chu, Szu-Yin and Sobedia Flores 
+## Author(s): Chu, Szu-Yin and Sobedia Flores 
 
 ### Published: September, 2011 in The Clearing House: A Journal of Educational Strategies, Issues and Ideas
 

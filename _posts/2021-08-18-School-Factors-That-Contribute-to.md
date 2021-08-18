@@ -5,7 +5,7 @@ categories: Blog
 tags: Socioeconomic Influences, Low Income Groups, Educational Environment, Underachievement, Academic Achievement, Minority Group Children, Cultural Pluralism, Leadership Responsibility, Culturally Relevant Education, Racial Differences, African American Students, White Students, Hispanic American Students, Asian American Students, Racial Bias, Teacher Expectations of Students
 ---
 
-### Author(s): Smith, Camille A.
+## Author(s): Smith, Camille A.
 
 ### Published: January, 2005 in Educational Leadership and Administration: Teaching and Program Development
 

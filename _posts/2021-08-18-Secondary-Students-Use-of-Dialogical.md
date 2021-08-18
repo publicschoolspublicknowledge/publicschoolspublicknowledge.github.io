@@ -5,7 +5,7 @@ categories: Blog
 tags: Students’ questioning; Interactive talk; Online learning; Group discussions; Secondary education, dialogic classroom
 ---
 
-### Author(s): Davies, Maree J. & Kane Meissel
+## Author(s): Davies, Maree J. & Kane Meissel
 
 ### Published: March 2018 in New Zealand Journal of Educational Studies
 

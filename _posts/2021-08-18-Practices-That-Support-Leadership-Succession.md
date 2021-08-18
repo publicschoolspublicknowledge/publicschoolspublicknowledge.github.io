@@ -5,7 +5,7 @@ categories: Blog
 tags: principal retention, leadership development, educational leadership, succession, succession planning, district leadership, assistant principals
 ---
 
-### Author(s): Ciemenski, Amie B
+## Author(s): Ciemenski, Amie B
 
 ### Published: December 2018 in Educational Leadership Review
 

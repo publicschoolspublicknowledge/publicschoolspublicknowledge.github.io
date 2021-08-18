@@ -5,7 +5,7 @@ categories: Blog
 tags:  Teaching Methods, Educational Sociology, Preservice Teacher Education, Teacher Attitudes, Foundations of Education, Teacher Responsibility, Teacher Influence, Equal Education, Disadvantaged Youth, Cultural Pluralism, Educational History, Racial Bias, Social Bias, Socioeconomic Status
 ---
 
-### Author(s):  Ryan, Ann Marie
+## Author(s):  Ryan, Ann Marie
 
 ### Published: N/A, 2006 in Multicultural Education
 

@@ -5,7 +5,7 @@ categories: Blog
 tags: Learning Disabilities, Foreign Language, Adaptations, IEPs, Special Education Resource Teachers, Inclusion, Diversity, Accommodations, Development, Social and Emotional Development
 ---
 
-### Author(s): Duvall, Emily D
+## Author(s): Duvall, Emily D
 
 ### Published: July 2006 in Teaching Exceptional Children
 

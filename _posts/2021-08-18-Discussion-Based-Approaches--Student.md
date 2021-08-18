@@ -5,7 +5,7 @@ categories: Blog
 tags: Student Achievement, Discussion, Lower Track Classes, English and Language Arts, Literacy
 ---
 
-### Author(s): VandeWeghe. Rick
+## Author(s): VandeWeghe. Rick
 
 ### Published: May 2005 in The English Journal
 

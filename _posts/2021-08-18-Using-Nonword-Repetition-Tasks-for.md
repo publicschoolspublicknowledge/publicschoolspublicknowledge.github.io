@@ -5,7 +5,7 @@ categories: Blog
 tags: Bilingual Students, Spanish-speaking Students, English-speaking students, Screening for Language Impairment, Typical Language Development, Nonword Repetition Task
 ---
 
-### Author(s): Gutierrez-Clellen, Vera F and Gabriela Simon-Cereijido
+## Author(s): Gutierrez-Clellen, Vera F and Gabriela Simon-Cereijido
 
 ### Published: February 2010 in Learning Disabilities Research & Practice 
 

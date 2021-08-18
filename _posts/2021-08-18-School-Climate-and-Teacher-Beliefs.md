@@ -5,7 +5,7 @@ categories: Blog
 tags: School effectiveness, minority students, school climate, teacher expectations, diverse student populations, exemplary teachers, group instruction, ability groups, inequality
 ---
 
-### Author(s): Brown, Kimberly E., and Frederic J. Medway
+## Author(s): Brown, Kimberly E., and Frederic J. Medway
 
 ### Published: May 2007 in Teacher and Teacher Education
 

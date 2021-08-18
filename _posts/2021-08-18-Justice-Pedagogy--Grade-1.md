@@ -5,7 +5,7 @@ categories: Blog
 tags: Elementary School Students, Bias, United States History, Social Justice, Preservice Teachers, Early Childhood Education, Teaching Methods, Social Problems, Justice Oriented Pedagogy
 ---
 
-### Author(s): Muller, Meir
+## Author(s): Muller, Meir
 
 ### Published: December 2018 in Social Studies And The Young Learner
 

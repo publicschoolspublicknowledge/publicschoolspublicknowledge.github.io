@@ -5,7 +5,7 @@ categories: Blog
 tags: gifted, Black girls, stereotype threat, perfectionism, stress, race, gender, academic performance, advanced placement, Black students
 ---
 
-### Author(s): Anderson, Brittany N. 
+## Author(s): Anderson, Brittany N. 
 
 ### Published: July 2018 in Gifted Child Today
 

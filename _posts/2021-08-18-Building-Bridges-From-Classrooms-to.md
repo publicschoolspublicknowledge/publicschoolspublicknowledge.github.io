@@ -5,7 +5,7 @@ categories: Blog
 tags: networked publics, creative writing, writing assessment, fanfiction, literacy
 ---
 
-### Author(s): Lammers, Jayne C., Judith H. Van Alstyne
+## Author(s): Lammers, Jayne C., Judith H. Van Alstyne
 
 ### Published: November 2018 in Journal of Adolescent and Adult Literacy
 

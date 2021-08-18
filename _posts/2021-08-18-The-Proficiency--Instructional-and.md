@@ -5,7 +5,7 @@ categories: Blog
 tags: English language learners, long-term English language learners, bilingualism, language proficiency
 ---
 
-### Author(s): Artigliere, Marcus
+## Author(s): Artigliere, Marcus
 
 ### Published: May 2019 in The Electronic Journal for English as a Second Language
 

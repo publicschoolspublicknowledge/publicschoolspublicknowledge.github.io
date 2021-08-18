@@ -5,7 +5,7 @@ categories: Blog
 tags: Aesthetics; art education; artistic growth; assessment in art; evaluation of artworks
 ---
 
-### Author(s): Mannathoko, Magdeline C & Attwell Mamvuto
+## Author(s): Mannathoko, Magdeline C & Attwell Mamvuto
 
 ### Published: 2018 in Arts Education Policy Review
 

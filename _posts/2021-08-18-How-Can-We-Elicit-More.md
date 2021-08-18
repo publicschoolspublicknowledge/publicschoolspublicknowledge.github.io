@@ -5,7 +5,7 @@ categories: Blog
 tags: complex personal viewpoints, life-issues, personal viewpoints, viewpoint choices
 ---
 
-### Author(s): Smith, Thomas Richard, Anne Lesley Knowles
+## Author(s): Smith, Thomas Richard, Anne Lesley Knowles
 
 ### Published: 2017 in International Journal of Christianity and Education
 

@@ -5,7 +5,7 @@ categories: Blog
 tags: Strategic Planning, Transformational Assessment, School Reform, Educational Leadership, Change
 ---
 
-### Author(s): Bardwell, Rebecca
+## Author(s): Bardwell, Rebecca
 
 ### Published: Summer 2008 in AASA Journal of Scholarship & Practice
 

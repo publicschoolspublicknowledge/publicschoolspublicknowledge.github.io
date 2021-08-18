@@ -5,7 +5,7 @@ categories: Blog
 tags: revision, technology, writing, students with learning disabilities, ADD, ADHD, online learning, concentration, dyslexia, text-to-speech
 ---
 
-### Author(s): Carmichael, Stephen, Peg Alden
+## Author(s): Carmichael, Stephen, Peg Alden
 
 ### Published: 2006 in Composition Studies
 

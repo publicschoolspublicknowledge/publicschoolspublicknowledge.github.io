@@ -5,7 +5,7 @@ categories: Blog
 tags: Culturally and Linguistically diverse learners, learning disabilities, disability assessment, play based assessment, cultural bias, translators and interpreters, cultural mediators, early intervention, early childhood special education
 ---
 
-### Author(s): Banerjee, Rashida, Mark Guiberson
+## Author(s): Banerjee, Rashida, Mark Guiberson
 
 ### Published: March 2012 in Young Exceptional Children
 

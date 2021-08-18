@@ -5,7 +5,7 @@ categories: Blog
 tags: standards based grading, assessments, change, teachers, principals, leadership, grading reform
 ---
 
-### Author(s): Townsley, Matt, Tom Buckmiller & Robyn Cooper
+## Author(s): Townsley, Matt, Tom Buckmiller & Robyn Cooper
 
 ### Published: October 2019 in National Association of Secondary School Principals Bulletin
 

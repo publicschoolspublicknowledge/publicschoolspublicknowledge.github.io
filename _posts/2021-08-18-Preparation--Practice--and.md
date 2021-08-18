@@ -5,7 +5,7 @@ categories: Blog
 tags: Achievement gap, standards-based practices, No child left behind, math education reform, science education reform, pedagogy
 ---
 
-### Author(s): Thompson, Carla J.
+## Author(s): Thompson, Carla J.
 
 ### Published: May 2009 in Research in Education
 

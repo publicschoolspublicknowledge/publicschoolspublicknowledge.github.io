@@ -5,7 +5,7 @@ categories: Blog
 tags: collaborative support; inclusive education; schools as nodes of care and support, community leaders, HIV/AIDS, poverty, inclusion, community empowerment
 ---
 
-### Author(s): Ebersöhn, Liesel & Irma Eloff
+## Author(s): Ebersöhn, Liesel & Irma Eloff
 
 ### Published: South African Journal of Education in 2006
 

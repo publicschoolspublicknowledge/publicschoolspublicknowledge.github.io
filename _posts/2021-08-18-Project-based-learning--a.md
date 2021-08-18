@@ -5,7 +5,7 @@ categories: Blog
 tags: project based learning, Collaboration, Problem Solving, Group Work, High-Performance Teams, 
 ---
 
-### Author(s): Markham, Thom
+## Author(s): Markham, Thom
 
 ### Published: December 2011 in Teacher Librarian
 

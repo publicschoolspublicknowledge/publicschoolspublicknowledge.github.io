@@ -5,7 +5,7 @@ categories: Blog
 tags: functional curriculum, general music, inclusion, students with disabilities
 ---
 
-### Author(s): Draper, Ellary A.  
+## Author(s): Draper, Ellary A.  
 
 ### Published: July, 2019 in General Music Today
 

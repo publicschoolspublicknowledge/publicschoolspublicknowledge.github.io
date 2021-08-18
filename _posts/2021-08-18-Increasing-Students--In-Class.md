@@ -5,7 +5,7 @@ categories: Blog
 tags: Public display; active learning environment; student engagement
 ---
 
-### Author(s):  Du.Honglu, Hao Jiang, MaryBeth Rosson & John M. Carroll 
+## Author(s):  Du.Honglu, Hao Jiang, MaryBeth Rosson & John M. Carroll 
 
 ### Published: July, 2010 in 10th IEEE International Conference on Advanced Learning Technologies
 

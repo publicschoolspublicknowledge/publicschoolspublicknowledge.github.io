@@ -5,7 +5,7 @@ categories: Blog
 tags: Teacher guidance, Student questioning, Core curriculum, Mind-map assessment, Inquiry-based learning, mind-mapping
 ---
 
-### Author(s): Stokhof, Harry, Bregje de Vries, Theo Bastiaens & Rob Martens
+## Author(s): Stokhof, Harry, Bregje de Vries, Theo Bastiaens & Rob Martens
 
 ### Published: January 2018 in Research in Science Education
 

@@ -5,7 +5,7 @@ categories: Blog
 tags: gifted education program development, instructional strategies, independent study
 ---
 
-### Author(s): Westberg Karen L & Jann H. Leppien
+## Author(s): Westberg Karen L & Jann H. Leppien
 
 ### Published: January, 2018 in Gifted Child Today: SAGE Journals
 

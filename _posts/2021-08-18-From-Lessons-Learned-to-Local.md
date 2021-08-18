@@ -5,7 +5,7 @@ categories: Blog
 tags: arts education, funding, community partnerships, arts advocacy, vision, leadership
 ---
 
-### Author(s): Remer, Jane
+## Author(s): Remer, Jane
 
 ### Published: September 2010 in Arts Education Policy Review
 

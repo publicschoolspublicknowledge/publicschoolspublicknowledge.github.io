@@ -5,7 +5,7 @@ categories: Blog
 tags: leadership, strategic leadership, strategy, vision, school planning
 ---
 
-### Author(s): Williams, Henry S. & Tyrel L. Johnson
+## Author(s): Williams, Henry S. & Tyrel L. Johnson
 
 ### Published: March 2013 in Education
 

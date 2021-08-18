@@ -5,7 +5,7 @@ categories: Blog
 tags: English Language Learners, Second Language Learning, Misconceptions, Learning Processes, Teaching Methods, Knowledge Base for Teaching, Academic Discourse, English (Second Language), Academic Achievement, Student Needs
 ---
 
-### Author(s): Harper, Candace Ester de Jong
+## Author(s): Harper, Candace Ester de Jong
 
 ### Published: 2004-10-15 in Journal of Adolescent and Adult Literacy
 

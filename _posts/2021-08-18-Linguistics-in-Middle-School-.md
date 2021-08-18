@@ -5,7 +5,7 @@ categories: Blog
 tags: linguistics, K–12 education, project-based learning, middle-school linguistics
 ---
 
-### Author(s): Bateman, Nicoleta
+## Author(s): Bateman, Nicoleta
 
 ### Published: June 2019 in Linguistic Society of America
 

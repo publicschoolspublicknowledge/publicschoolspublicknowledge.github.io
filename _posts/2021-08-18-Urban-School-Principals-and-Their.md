@@ -5,7 +5,7 @@ categories: Blog
 tags: multicultural leadership; principal preparation; diversity; school administration
 ---
 
-### Author(s): Gardiner, Mary E., and Ernestine K. Enomoto.
+## Author(s): Gardiner, Mary E., and Ernestine K. Enomoto.
 
 ### Published: 2006 in Urban Education
 

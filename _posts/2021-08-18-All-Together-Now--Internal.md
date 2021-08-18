@@ -5,7 +5,7 @@ categories: Blog
 tags: instructional leadership, principals, professional development, collective efficacy, student achievement, internal coherence
 ---
 
-### Author(s):  Stoisch, Elizabeth Leisy, Michelle L. Forman, and Candice Bocala
+## Author(s):  Stoisch, Elizabeth Leisy, Michelle L. Forman, and Candice Bocala
 
 ### Published: June 2019 in Learning Professional
 

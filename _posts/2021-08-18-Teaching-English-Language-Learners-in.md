@@ -5,7 +5,7 @@ categories: Blog
 tags: English language learners, literacy, instruction, content area, mainstream teachers.
 ---
 
-### Author(s): Janzey, Joy
+## Author(s): Janzey, Joy
 
 ### Published: 2008 in Review of Educational Research
 

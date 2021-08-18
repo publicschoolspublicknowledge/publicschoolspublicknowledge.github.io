@@ -5,7 +5,7 @@ categories: Blog
 tags: community conversations, students with disabilities, transitioning out of high school 
 ---
 
-### Author(s): Carter, Erik W and Jennifer L. Bumble
+## Author(s): Carter, Erik W and Jennifer L. Bumble
 
 ### Published: 2018 in Journal of Disability Policy Studies
 

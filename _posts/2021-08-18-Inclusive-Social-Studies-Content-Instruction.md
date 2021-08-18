@@ -5,7 +5,7 @@ categories: Blog
 tags: intellectual disabilities, learning disabilities, social studies, civic competence, embedded instruction, structured inquiry
 ---
 
-### Author(s): Ryan, Joanna, J. Matt Jameson, Olivia Fudge Coleman, Carrie Eichelberger, Jessica A. Bowman, Lyndsey Aiono Conradi, Susan S. Johnston, John McDonnell
+## Author(s): Ryan, Joanna, J. Matt Jameson, Olivia Fudge Coleman, Carrie Eichelberger, Jessica A. Bowman, Lyndsey Aiono Conradi, Susan S. Johnston, John McDonnell
 
 ### Published: December 2019 in Education & Training in Autism & Developmental Disabilities
 

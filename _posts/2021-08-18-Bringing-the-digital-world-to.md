@@ -5,7 +5,7 @@ categories: Blog
 tags: experiential learning, social media, communications
 ---
 
-### Author(s): Childers, Courtney C. & Abbey B. Levenshus
+## Author(s): Childers, Courtney C. & Abbey B. Levenshus
 
 ### Published: July 2016 in Communication Teacher
 

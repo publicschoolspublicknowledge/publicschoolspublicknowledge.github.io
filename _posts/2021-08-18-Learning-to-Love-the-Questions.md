@@ -5,7 +5,7 @@ categories: Blog
 tags: inquiry-based learning, questions, essential questions, dialogue, problem-based literacy
 ---
 
-### Author(s): Wilhelm, Jefrey D.
+## Author(s): Wilhelm, Jefrey D.
 
 ### Published: May/June 2014 in Knowledge Quest
 

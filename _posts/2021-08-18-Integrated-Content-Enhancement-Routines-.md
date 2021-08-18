@@ -5,7 +5,7 @@ categories: Blog
 tags: Learning Disabilities, Content Enhancement, Routines, Collaboration, Inclusion
 ---
 
-### Author(s): Bulgren, Janis A.
+## Author(s): Bulgren, Janis A.
 
 ### Published: July 2006 in Teaching Exceptional Children
 

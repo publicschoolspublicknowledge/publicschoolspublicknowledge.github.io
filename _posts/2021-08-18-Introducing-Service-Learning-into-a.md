@@ -5,7 +5,7 @@ categories: Blog
 tags: Service Learning, Learning Objectives, Rural Schools, Community Engagement
 ---
 
-### Author(s): Bludau, Jo Ann
+## Author(s): Bludau, Jo Ann
 
 ### Published: September 2006 in Delta Kappa Gamma Bulletin
 

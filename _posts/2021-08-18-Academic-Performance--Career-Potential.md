@@ -5,7 +5,7 @@ categories: Blog
 tags: Testing, Job performance, Knowledge, Career Potential, Academic Performance, Graduate School, g, Cognitive Ability
 ---
 
-### Author(s): Kuncel, Nathan R., Sarah A Hezlett & Deniz S. Ones
+## Author(s): Kuncel, Nathan R., Sarah A Hezlett & Deniz S. Ones
 
 ### Published: 2004 in Journal of Personality and Social Psychology
 

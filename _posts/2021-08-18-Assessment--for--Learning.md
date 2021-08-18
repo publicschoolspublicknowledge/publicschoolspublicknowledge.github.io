@@ -5,7 +5,7 @@ categories: Blog
 tags: Formative Evaluation, Problem Based Learning, Student Projects, Active Learning, Science Instruction, Feedback (Response), Student Evaluation, Teaching Methods, Learning
 ---
 
-### Author(s): Trauth-Nare, Amy; Buck, Gayle
+## Author(s): Trauth-Nare, Amy; Buck, Gayle
 
 ### Published: January, 2011 in Science Teacher
 
