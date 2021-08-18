@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Culturally Responsive Mathematics Teaching: A Research Synthesis
+title: Culturally Responsive Mathematics Teaching- A Research Synthesis
 date: 2020-10-30
 categories: Blog
 tags: Culture, Culturally Responsive Teaching, Mathematics, Social Justice, Culturally and Linguistically Diverse Learners, CRMT, CLD, Diversity, Race, Pedagogy, Equity, Inclusivity, Identity, Language, Instructional Engagement, Collaboration, Critical Reflection

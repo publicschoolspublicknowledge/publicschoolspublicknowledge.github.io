@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anticipating a Second Wave of Standards-Based Grading Implementation and Understanding the Potential Barriers: Perceptions of High School Principals
+title: Anticipating a Second Wave of Standards-Based Grading Implementation and Understanding the Potential Barriers- Perceptions of High School Principals
 date: 2021-01-25
 categories: Blog
 tags: standards based grading, assessments, change, teachers, principals, leadership, grading reform

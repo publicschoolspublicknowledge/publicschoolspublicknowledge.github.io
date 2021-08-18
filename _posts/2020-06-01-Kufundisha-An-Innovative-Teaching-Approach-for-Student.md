@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kufundisha: An Innovative Teaching Approach for Student Engagement and Experiential Learning
+title: Kufundisha- An Innovative Teaching Approach for Student Engagement and Experiential Learning
 date: 2020-06-01
 categories: Blog
 tags: Kufundisha, Culturally Relevant Teaching, African Centered, Black Studies Pedagogy.

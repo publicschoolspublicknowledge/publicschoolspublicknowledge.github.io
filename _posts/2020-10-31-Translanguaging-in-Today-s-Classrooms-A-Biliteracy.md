@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Translanguaging in Today’s Classrooms: A Biliteracy Lens
+title: Translanguaging in Today’s Classrooms- A Biliteracy Lens
 date: 2020-10-31
 categories: Blog
 tags: biliteracy, multilingualism, bilingual, literacy, language, English as a second language, immigration, translanguaging

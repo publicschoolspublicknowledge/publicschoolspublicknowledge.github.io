@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Promise and Possibilities of Community Conversations: Expanding Opportunities for People With Disabilities
+title: The Promise and Possibilities of Community Conversations- Expanding Opportunities for People With Disabilities
 date: 2020-03-31
 categories: Blog
 tags: community conversations, students with disabilities, transitioning out of high school 
