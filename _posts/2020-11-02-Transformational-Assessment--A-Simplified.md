@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Transformational Assessment: A Simplified Model of Strategic Planning
+date: 2020-11-02 05:18:33
 categories: Blog
 tags: Strategic Planning, Transformational Assessment, School Reform, Educational Leadership, Change
 ---

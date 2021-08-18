@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What K-12 Teachers Need to Know About Teaching Gifted Black Girls Battling Perfectionism and Stereotype Threat
+date: 2020-10-14 16:32:27
 categories: Blog
 tags: gifted, black girls, stereotype threat, perfectionism, stress, race, gender, academic performance, advanced placement, strong black woman
 ---

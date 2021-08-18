@@ -1,6 +1,7 @@
 ---
 layout: post
 title: We Were There Too: Learning from Black Male Teachers in Mississippi about Successful Teaching of Black Students
+date: 2021-02-09 15:46:49
 categories: Blog
 tags: Black Male, Critical Race Theory, Black Students, Educational Inequity, School to Prison Pipeline, Segregation, Integration, Racism, Mentorship
 ---

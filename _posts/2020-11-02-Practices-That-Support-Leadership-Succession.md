@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Practices That Support Leadership Succession and Principal Retention
+date: 2020-11-02 05:26:13
 categories: Blog
 tags: principal retention, leadership development, educational leadership, succession, succession planning, district leadership, assistant principals
 ---

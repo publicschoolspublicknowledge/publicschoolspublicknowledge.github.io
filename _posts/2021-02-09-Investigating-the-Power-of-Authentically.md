@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Investigating the Power of Authentically Caring Student-Teacher Relationships for Latinx Students.
+date: 2021-02-09 15:43:04
 categories: Blog
 tags: Latinx students, emotional and social resources, bilingual, multilingual, college access, inquity, Student-Teacher Relationships
 ---

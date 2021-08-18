@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Linguistics in Middle School: Incorporating Linguistics into Project-Based Learning
+date: 2020-10-30 19:54:54
 categories: Blog
 tags: linguistics, K–12 education, project-based learning, middle-school linguistics
 ---

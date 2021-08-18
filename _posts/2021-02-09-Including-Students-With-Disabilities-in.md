@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Including Students With Disabilities in a Foreign Language Class.
+date: 2021-02-09 03:18:08
 categories: Blog
 tags: Learning Disabilities, Foreign Language, Adaptations, IEPs, Special Education Resource Teachers, Inclusion, Diversity, Accommodations, Development, Social and Emotional Development
 ---

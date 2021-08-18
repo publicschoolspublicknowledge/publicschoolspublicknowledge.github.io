@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Navigating the Journey to Culturally Responsive Teaching: Lessons from the Success and Struggles of One First-Year, Black Female Teacher of Black Students in an Urban School
+date: 2021-02-09 03:05:44
 categories: Blog
 tags: ulturally Responsive Teaching, Sociocultural Issues, Racism, Sexism, Ableism, Hetero-sexism, Anti-semitism, Testing, Learning Environment, Classroom Community
 ---

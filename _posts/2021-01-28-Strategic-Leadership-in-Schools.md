@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Strategic Leadership in Schools
+date: 2021-01-28 12:17:06
 categories: Blog
 tags: leadership, strategic leadership, strategy, vision, school planning
 ---

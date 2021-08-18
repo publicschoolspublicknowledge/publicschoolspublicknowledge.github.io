@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Can We Elicit More Complex Thinking in Year 7 Students for Understanding and Resolving Life-Issues?
+date: 2021-02-08 18:22:21
 categories: Blog
 tags: complex personal viewpoints, life-issues, personal viewpoints, viewpoint choices
 ---

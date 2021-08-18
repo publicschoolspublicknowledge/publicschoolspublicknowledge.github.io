@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Inclusive Social Studies Content Instruction for Students with Significant Intellectual Disability Using Structured Inquiry-Based Instruction
+date: 2021-02-08 18:25:16
 categories: Blog
 tags: intellectual disabilities, learning disabilities, social studies, civic competence, embedded instruction, structured inquiry
 ---

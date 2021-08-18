@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Student Independent Investigations for Authentic Learning
+date: 2020-05-21 21:27:39
 categories: Blog
 tags: gifted education program development, instructional strategies, independent study
 ---

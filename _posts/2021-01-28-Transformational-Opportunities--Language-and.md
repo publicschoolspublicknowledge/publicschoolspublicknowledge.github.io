@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Transformational Opportunities: Language and Literacy Instruction for English Language Learners in the Common Core Era in the United States
+date: 2021-01-28 12:26:35
 categories: Blog
 tags: Scaffolding, Common Core, English Language Learners, English Language Arts Standards, Minority Students, Second Language Acquisition, Apprenticeship, Diverse Groups of Students
 ---

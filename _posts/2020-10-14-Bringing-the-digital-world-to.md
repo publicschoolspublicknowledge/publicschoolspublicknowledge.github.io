@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bringing the digital world to students: partnering with the university communications office to provide social media experiential learning projects
+date: 2020-10-14 16:55:38
 categories: Blog
 tags: experiential learning, social media, communications, professional world, mentoring, university
 ---

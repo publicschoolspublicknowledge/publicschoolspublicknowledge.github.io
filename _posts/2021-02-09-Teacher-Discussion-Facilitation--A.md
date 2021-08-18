@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Teacher Discussion Facilitation: A New Measure and Its Associations with Students’ Perceived Understanding, Interest, and Engagement.
+date: 2021-02-09 02:51:13
 categories: Blog
 tags: Learner Engagement, Teaching Methods, Discussion (Teaching Technique), Factor Analysis, College Faculty, Correlation, Teacher Student Relationship, Undergraduate Students, Communications, Introductory Courses, Questionnaires, Measures (Individuals), Maximum Likelihood Statistics, Construct Validity, Student Attitudes, Likert Scales, Structural Equation Models, Statistical Analysis
 ---

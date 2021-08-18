@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing Service Learning into a School: Engaging Students, Teachers and Community Partners in Meaningful Projects
+date: 2021-02-09 03:11:02
 categories: Blog
 tags: Service Learning, Learning Objectives, Rural Schools, Community Engagement
 ---

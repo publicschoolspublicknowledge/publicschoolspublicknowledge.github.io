@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Teaching English Language Learners in the Content Areas
+date: 2021-02-09 02:55:46
 categories: Blog
 tags: English language learners, literacy, instruction, content area, mainstream teachers.
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Creating a Meaningful Music Curriculum for Students With Disabilities
+date: 2020-05-21 22:33:07
 categories: Blog
 tags: functional curriculum, general music, inclusion, students with disabilities
 ---

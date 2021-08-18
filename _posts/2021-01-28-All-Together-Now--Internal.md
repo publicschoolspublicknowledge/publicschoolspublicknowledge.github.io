@@ -1,6 +1,7 @@
 ---
 layout: post
 title: All Together Now: Internal Coherence Framework Supports Instructional Leadership Teams
+date: 2021-01-28 12:23:47
 categories: Blog
 tags: instructional leadership, principals, professional development, collective efficacy, student achievement, internal coherence
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: From Lessons Learned to Local Action: Building Your Own Policies for Effective Arts Education
+date: 2021-02-08 21:28:04
 categories: Blog
 tags: arts education, funding, community partnerships, arts advocacy, vision, leadership
 ---

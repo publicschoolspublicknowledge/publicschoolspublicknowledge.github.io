@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Justice Pedagogy: Grade 1-3 Students Challenge Racist Statues.
+date: 2021-02-08 18:28:02
 categories: Blog
 tags: Elementary School Students, Bias, United States History, Social Justice, Preservice Teachers, Early Childhood Education, Teaching Methods, Social Problems, Justice Oriented Pedagogy
 ---

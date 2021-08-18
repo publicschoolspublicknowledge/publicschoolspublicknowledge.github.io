@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Academic Performance, Career Potential, Creativity, and Job Performance: Can One Construct Predict Them All?
+date: 2021-01-28 12:07:44
 categories: Blog
 tags: Testing, Job performance, Knowledge, Career Potential, Academic Performance, Graduate School, g, Cognitive Ability
 ---

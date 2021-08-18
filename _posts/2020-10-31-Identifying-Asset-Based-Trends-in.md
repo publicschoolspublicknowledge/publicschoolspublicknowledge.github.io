@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Identifying Asset-Based Trends in Sustainable Programmes Which Support Vulnerable Children.
+date: 2020-10-31 05:45:15
 categories: Blog
 tags: collaborative support; inclusive education; schools as nodes of care and support, community leaders, HIV/AIDS, poverty, inclusion, community empowerment
 ---

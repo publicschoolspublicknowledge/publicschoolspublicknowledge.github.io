@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Learning to Love the Questions: How Essential Questions Promote Creativity and Deep Learning
+date: 2021-02-09 02:46:05
 categories: Blog
 tags: inquiry-based learning, questions, essential questions, dialogue, problem-based literacy
 ---

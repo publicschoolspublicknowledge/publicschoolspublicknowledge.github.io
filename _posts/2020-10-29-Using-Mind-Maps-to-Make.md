@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Using Mind Maps to Make Student Questioning Effective: Learning Outcomes of a Principle-Based Scenario for Teacher Guidance.
+date: 2020-10-29 20:51:02
 categories: Blog
 tags: Teacher guidance, Student questioning, Core curriculum, Mind-map assessment, Inquiry-based learning, mind-mapping
 ---
