@@ -5,9 +5,7 @@ categories: Blog
 tags: inquiry-based learning, questions, essential questions, dialogue, problem-based literacy
 ---
 
-# Summary of Article: Learning to Love the Questions: How Essential Questions Promote Creativity and Deep Learning
-
-## Author(s): Wilhelm, Jefrey D.
+### Author(s): Wilhelm, Jefrey D.
 
 ### Published: May/June 2014 in Knowledge Quest
 

@@ -5,9 +5,7 @@ categories: Blog
 tags: music technology, MIR, assessment, instruments
 ---
 
-# Summary of Article: LibROSA Based Assessment Tool for Music Information Retrieval Systems
-
-## Author(s): Raguraman, Preeth, Mohan R, Midhula Vijayan
+### Author(s): Raguraman, Preeth, Mohan R, Midhula Vijayan
 
 ### Published: March 2019 in 2019 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR)
 

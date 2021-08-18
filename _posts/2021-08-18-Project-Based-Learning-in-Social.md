@@ -5,9 +5,7 @@ categories: Blog
 tags: project-based learning, social studies, problem-based learning, authenticity, history
 ---
 
-# Summary of Article: Project-Based Learning in Social Studies
-
-## Author(s): Larmer, John
+### Author(s): Larmer, John
 
 ### Published: December 2018 in Social Education
 

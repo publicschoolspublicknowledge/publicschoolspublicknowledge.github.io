@@ -5,9 +5,7 @@ categories: Blog
 tags: School effectiveness, minority students, school climate, teacher expectations, diverse student populations, exemplary teachers, group instruction, ability groups, inequality
 ---
 
-# Summary of Article: School Climate and Teacher Beliefs in a School Effectively Serving Poor South Carolina (USA) African-American Students: A Case Study.
-
-## Author(s): Brown, Kimberly E., and Frederic J. Medway
+### Author(s): Brown, Kimberly E., and Frederic J. Medway
 
 ### Published: May 2007 in Teacher and Teacher Education
 

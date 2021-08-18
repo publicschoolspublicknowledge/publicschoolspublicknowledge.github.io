@@ -5,9 +5,7 @@ categories: Blog
 tags: Black teachers, Black students, Education of black people, Research personnel attitudes, Brown v. Board of Education of Topeka (Supreme Court case,) Education research, Teaching African American teachers, African American educators, Teacher training African Americans, Research personnel, United States.
 ---
 
-# Summary of Article: The Promise of Black Teachers' Success with Black Students.
-
-## Author(s):  Milner, H. Richard IV
+### Author(s):  Milner, H. Richard IV
 
 ### Published: N/A, 2006 in  Educational Foundations
 

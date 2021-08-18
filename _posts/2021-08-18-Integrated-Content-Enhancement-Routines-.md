@@ -5,9 +5,7 @@ categories: Blog
 tags: Learning Disabilities, Content Enhancement, Routines, Collaboration, Inclusion
 ---
 
-# Summary of Article: Integrated Content Enhancement Routines: Responding to the Needs of Adolescents With Disabilities in Rigorous Inclusive Secondary Content Classes
-
-## Author(s): Bulgren, Janis A.
+### Author(s): Bulgren, Janis A.
 
 ### Published: July 2006 in Teaching Exceptional Children
 

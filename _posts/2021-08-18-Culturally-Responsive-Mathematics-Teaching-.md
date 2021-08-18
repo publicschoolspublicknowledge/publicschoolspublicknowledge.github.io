@@ -5,9 +5,7 @@ categories: Blog
 tags: Culture, Culturally Responsive Teaching, Mathematics, Social Justice, Culturally and Linguistically Diverse Learners, CRMT, CLD, Diversity, Race, Pedagogy, Equity, Inclusivity, Identity, Language, Instructional Engagement, Collaboration, Critical Reflection
 ---
 
-# Summary of Article: Culturally Responsive Mathematics Teaching: A Research Synthesis
-
-## Author(s): Abdulrahim, Naheed A. & Michael J. Orosco
+### Author(s): Abdulrahim, Naheed A. & Michael J. Orosco
 
 ### Published: April 2019 in The Urban Review
 

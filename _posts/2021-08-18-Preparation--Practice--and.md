@@ -5,9 +5,7 @@ categories: Blog
 tags: Achievement gap, standards-based practices, No child left behind, math education reform, science education reform, pedagogy
 ---
 
-# Summary of Article: Preparation, Practice, and Performance: An Empirical Examination of the Impact of Standards-Based Instruction on Secondary Students’ Math and Science Achievement.
-
-## Author(s): Thompson, Carla J.
+### Author(s): Thompson, Carla J.
 
 ### Published: May 2009 in Research in Education
 

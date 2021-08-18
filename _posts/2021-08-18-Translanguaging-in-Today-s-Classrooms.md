@@ -5,9 +5,7 @@ categories: Blog
 tags: biliteracy, multilingualism, bilingual, literacy, language, English as a second language, immigration, translanguaging
 ---
 
-# Summary of Article: Translanguaging in Today’s Classrooms: A Biliteracy Lens
-
-## Author(s): Nancy Hornberger, Holly Link
+### Author(s): Nancy Hornberger, Holly Link
 
 ### Published: 2012 in Theory Into Practice
 

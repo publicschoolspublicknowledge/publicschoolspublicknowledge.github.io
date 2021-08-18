@@ -5,9 +5,7 @@ categories: Blog
 tags: arts education, funding, community partnerships, arts advocacy, vision, leadership
 ---
 
-# Summary of Article: From Lessons Learned to Local Action: Building Your Own Policies for Effective Arts Education
-
-## Author(s): Remer, Jane
+### Author(s): Remer, Jane
 
 ### Published: September 2010 in Arts Education Policy Review
 

@@ -5,9 +5,7 @@ categories: Blog
 tags:  High School Students, College Bound Students, College Readiness, Statistical Analysis, Grading, Academic Standards, Quasiexperimental Design, College Entrance Examinations, Grade Point Average, Standardized Tests, Scores, Comparative Analysis, Multiple Regression Analysis, College Admission, Prediction
 ---
 
-# Summary of Article: Getting High School Students Ready for College: A Quantitative Study of Standards-Based Grading Practices
-
-## Author(s): Townsley, Matt; Varga, Matt
+### Author(s): Townsley, Matt; Varga, Matt
 
 ### Published: N/A, 2018 in Journal of Research in Education
 

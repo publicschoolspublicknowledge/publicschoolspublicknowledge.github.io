@@ -5,9 +5,7 @@ categories: Blog
 tags: disabilities; diversity; language interpretation; school-based teams
 ---
 
-# Summary of Article: Facilitating Quality Language Interpretation for Families of Diverse Students With Special Needs
-
-## Author(s): Hart, Juliet E., Gregory Cheatham, Margarita Jimenez-Silva
+### Author(s): Hart, Juliet E., Gregory Cheatham, Margarita Jimenez-Silva
 
 ### Published: August 2012 in Preventing School Failure
 

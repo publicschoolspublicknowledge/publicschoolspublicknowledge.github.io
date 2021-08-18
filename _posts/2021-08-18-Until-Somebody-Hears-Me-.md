@@ -5,9 +5,7 @@ categories: Blog
 tags: guardians of students with disabilities, guardian psychoeducation 
 ---
 
-# Summary of Article: Until Somebody Hears Me: Parent Voice and Advocacy in Special Educational decision making
-
-## Author(s): Hess, Robyn S. Amy M. Molina and Elizabeth B. Kozleski
+### Author(s): Hess, Robyn S. Amy M. Molina and Elizabeth B. Kozleski
 
 ### Published: 2006 in British Journal of Special Education 
 

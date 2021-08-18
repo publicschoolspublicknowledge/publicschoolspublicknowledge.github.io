@@ -5,9 +5,7 @@ categories: Blog
 tags: Testing, Job performance, Knowledge, Career Potential, Academic Performance, Graduate School, g, Cognitive Ability
 ---
 
-# Summary of Article: Academic Performance, Career Potential, Creativity, and Job Performance: Can One Construct Predict Them All?
-
-## Author(s): Kuncel, Nathan R., Sarah A Hezlett & Deniz S. Ones
+### Author(s): Kuncel, Nathan R., Sarah A Hezlett & Deniz S. Ones
 
 ### Published: 2004 in Journal of Personality and Social Psychology
 

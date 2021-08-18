@@ -5,9 +5,7 @@ categories: Blog
 tags: revision, technology, writing, students with learning disabilities, ADD, ADHD, online learning, concentration, dyslexia, text-to-speech
 ---
 
-# Summary of Article: The Advantages of Using Electronic Processes for Commenting on and Exchanging the Written Work of Students with Learning Disabilities and/or AD/HD
-
-## Author(s): Carmichael, Stephen, Peg Alden
+### Author(s): Carmichael, Stephen, Peg Alden
 
 ### Published: 2006 in Composition Studies
 

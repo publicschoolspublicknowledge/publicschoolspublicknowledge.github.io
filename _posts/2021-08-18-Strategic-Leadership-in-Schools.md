@@ -5,9 +5,7 @@ categories: Blog
 tags: leadership, strategic leadership, strategy, vision, school planning
 ---
 
-# Summary of Article: Strategic Leadership in Schools
-
-## Author(s): Williams, Henry S. & Tyrel L. Johnson
+### Author(s): Williams, Henry S. & Tyrel L. Johnson
 
 ### Published: March 2013 in Education
 

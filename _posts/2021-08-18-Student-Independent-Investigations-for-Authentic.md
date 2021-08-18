@@ -5,9 +5,7 @@ categories: Blog
 tags: gifted education program development, instructional strategies, independent study
 ---
 
-# Summary of Article: Student Independent Investigations for Authentic Learning
-
-## Author(s): Westberg Karen L & Jann H. Leppien
+### Author(s): Westberg Karen L & Jann H. Leppien
 
 ### Published: January, 2018 in Gifted Child Today: SAGE Journals
 

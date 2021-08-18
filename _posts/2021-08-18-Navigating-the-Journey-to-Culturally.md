@@ -5,9 +5,7 @@ categories: Blog
 tags: ulturally Responsive Teaching, Sociocultural Issues, Racism, Sexism, Ableism, Hetero-sexism, Anti-semitism, Testing, Learning Environment, Classroom Community
 ---
 
-# Summary of Article: Navigating the Journey to Culturally Responsive Teaching: Lessons from the Success and Struggles of One First-Year, Black Female Teacher of Black Students in an Urban School
-
-## Author(s): Coffey, Heather, Abiola Farinde-Wu
+### Author(s): Coffey, Heather, Abiola Farinde-Wu
 
 ### Published: November 2016 in Teaching and Teacher Education
 

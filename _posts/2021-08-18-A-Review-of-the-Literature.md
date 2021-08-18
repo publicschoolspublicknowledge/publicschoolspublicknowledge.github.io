@@ -5,9 +5,7 @@ categories: Blog
 tags: academic English, general education, English language learners, English as a second language instruction, teacher education, teacher professional development
 ---
 
-# Summary of Article: A Review of the Literature on Teaching Academic English to English Language Learners.
-
-## Author(s): DiCerbo, Patricia A., Kristina A. Anstrom, Lottie L. Baker, Charlene Rivera
+### Author(s): DiCerbo, Patricia A., Kristina A. Anstrom, Lottie L. Baker, Charlene Rivera
 
 ### Published: September 2014 in Review of Educational Research
 

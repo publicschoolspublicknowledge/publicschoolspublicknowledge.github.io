@@ -5,9 +5,7 @@ categories: Blog
 tags: experiential learning, social media, communications
 ---
 
-# Summary of Article: Bringing the digital world to students: partnering with the university communications office to provide social media experiential learning projects
-
-## Author(s): Childers, Courtney C. & Abbey B. Levenshus
+### Author(s): Childers, Courtney C. & Abbey B. Levenshus
 
 ### Published: July 2016 in Communication Teacher
 

@@ -5,9 +5,7 @@ categories: Blog
 tags: English language learners, long-term English language learners, bilingualism, language proficiency
 ---
 
-# Summary of Article: The Proficiency, Instructional and Affective Domains of Long Term English Language Learners: A Review of the Research
-
-## Author(s): Artigliere, Marcus
+### Author(s): Artigliere, Marcus
 
 ### Published: May 2019 in The Electronic Journal for English as a Second Language
 

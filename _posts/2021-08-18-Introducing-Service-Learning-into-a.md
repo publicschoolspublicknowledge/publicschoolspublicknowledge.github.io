@@ -5,9 +5,7 @@ categories: Blog
 tags: Service Learning, Learning Objectives, Rural Schools, Community Engagement
 ---
 
-# Summary of Article: Introducing Service Learning into a School: Engaging Students, Teachers and Community Partners in Meaningful Projects
-
-## Author(s): Bludau, Jo Ann
+### Author(s): Bludau, Jo Ann
 
 ### Published: September 2006 in Delta Kappa Gamma Bulletin
 

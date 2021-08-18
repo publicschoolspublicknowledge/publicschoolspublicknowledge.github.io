@@ -5,9 +5,7 @@ categories: Blog
 tags: Strategic Planning, Transformational Assessment, School Reform, Educational Leadership, Change
 ---
 
-# Summary of Article: Transformational Assessment: A Simplified Model of Strategic Planning
-
-## Author(s): Bardwell, Rebecca
+### Author(s): Bardwell, Rebecca
 
 ### Published: Summer 2008 in AASA Journal of Scholarship & Practice
 

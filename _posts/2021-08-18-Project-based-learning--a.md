@@ -5,9 +5,7 @@ categories: Blog
 tags: project based learning, Collaboration, Problem Solving, Group Work, High-Performance Teams, 
 ---
 
-# Summary of Article: Project based learning: a bridge just far enough
-
-## Author(s): Markham, Thom
+### Author(s): Markham, Thom
 
 ### Published: December 2011 in Teacher Librarian
 

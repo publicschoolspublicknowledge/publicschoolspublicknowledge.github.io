@@ -5,9 +5,7 @@ categories: Blog
 tags: community conversations, students with disabilities, transitioning out of high school 
 ---
 
-# Summary of Article: The Promise and Possibilities of Community Conversations: Expanding Opportunities for People With Disabilities
-
-## Author(s): Carter, Erik W and Jennifer L. Bumble
+### Author(s): Carter, Erik W and Jennifer L. Bumble
 
 ### Published: 2018 in Journal of Disability Policy Studies
 

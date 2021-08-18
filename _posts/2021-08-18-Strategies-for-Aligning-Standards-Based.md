@@ -5,9 +5,7 @@ categories: Blog
 tags: Students with Disabilities, Employment, Educational Policy, Transition, IEPs, College Prep, No Child Left Behind, Rehabilitation Act
 ---
 
-# Summary of Article: Strategies for Aligning Standards-Based Education and Transition
-
-## Author(s): Bassett, Diane S., Carol A. Kochhar-Bryant
+### Author(s): Bassett, Diane S., Carol A. Kochhar-Bryant
 
 ### Published: October 2006 in Focus on Exceptional Children
 

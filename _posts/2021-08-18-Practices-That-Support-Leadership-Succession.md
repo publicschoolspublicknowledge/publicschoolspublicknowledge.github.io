@@ -5,9 +5,7 @@ categories: Blog
 tags: principal retention, leadership development, educational leadership, succession, succession planning, district leadership, assistant principals
 ---
 
-# Summary of Article: Practices That Support Leadership Succession and Principal Retention.
-
-## Author(s): Ciemenski, Amie B
+### Author(s): Ciemenski, Amie B
 
 ### Published: December 2018 in Educational Leadership Review
 

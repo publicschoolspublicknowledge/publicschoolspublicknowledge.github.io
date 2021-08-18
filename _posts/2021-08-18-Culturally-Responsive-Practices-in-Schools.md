@@ -5,9 +5,7 @@ categories: Blog
 tags: disproportionality, racial diversity, ethnic representation, special education, general education, students of color, bilingual, poverty, racial inequality
 ---
 
-# Summary of Article: Culturally Responsive Practices in Schools
-
-## Author(s): Fiedler, Craig R., Bert Chiang, Barbara Van Haren, Jack Jorgensen, Sara Halberg, Lynn Boreson
+### Author(s): Fiedler, Craig R., Bert Chiang, Barbara Van Haren, Jack Jorgensen, Sara Halberg, Lynn Boreson
 
 ### Published: May 2008 in Teaching Exceptional Children
 

@@ -5,9 +5,7 @@ categories: Blog
 tags: Aesthetics; art education; artistic growth; assessment in art; evaluation of artworks
 ---
 
-# Summary of Article: Learner involvement in art and design education assessment: The missing matrix in Botswana's primary schools
-
-## Author(s): Mannathoko, Magdeline C & Attwell Mamvuto
+### Author(s): Mannathoko, Magdeline C & Attwell Mamvuto
 
 ### Published: 2018 in Arts Education Policy Review
 

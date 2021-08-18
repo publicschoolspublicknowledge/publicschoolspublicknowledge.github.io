@@ -5,9 +5,7 @@ categories: Blog
 tags: Black Male, Critical Race Theory, Black Students, Educational Inequity, School to Prison Pipeline, Segregation, Integration, Racism, Mentorship
 ---
 
-# Summary of Article: We Were There Too: Learning from Black Male Teachers in Mississippi about Successful Teaching of Black Students
-
-## Author(s): Hayes, Cleveland, Brenda Juarez, and Veronica Escoffery-Runnels
+### Author(s): Hayes, Cleveland, Brenda Juarez, and Veronica Escoffery-Runnels
 
 ### Published: January 2014 in Democracy and Education
 

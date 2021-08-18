@@ -5,9 +5,7 @@ categories: Blog
 tags: complex personal viewpoints, life-issues, personal viewpoints, viewpoint choices
 ---
 
-# Summary of Article: How Can We Elicit More Complex Thinking in Year 7 Students for Understanding and Resolving Life-Issues?
-
-## Author(s): Smith, Thomas Richard, Anne Lesley Knowles
+### Author(s): Smith, Thomas Richard, Anne Lesley Knowles
 
 ### Published: 2017 in International Journal of Christianity and Education
 

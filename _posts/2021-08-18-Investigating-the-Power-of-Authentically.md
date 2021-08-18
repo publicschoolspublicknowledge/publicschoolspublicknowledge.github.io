@@ -5,9 +5,7 @@ categories: Blog
 tags: Latinx students, emotional and social resources, bilingual, multilingual, college access, inquity, Student-Teacher Relationships
 ---
 
-# Summary of Article: Investigating the Power of Authentically Caring Student-Teacher Relationships for Latinx Students.
-
-## Author(s): Newcomer, Sarah N.
+### Author(s): Newcomer, Sarah N.
 
 ### Published: April 2018 in Journal of Latinos & Education
 
