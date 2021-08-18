@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Misconceptions about teaching English-language learners
-date: 2020-02-18 18:08:29
 categories: Blog
 tags: English Language Learners, Second Language Learning, Misconceptions, Learning Processes, Teaching Methods, Knowledge Base for Teaching, Academic Discourse, English (Second Language), Academic Achievement, Student Needs
 ---

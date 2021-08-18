@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Using Nonword Repetition Tasks for the Identification of Language Impairment in Spanish-English Speaking Children: Does the Language of Assessment Matter?
-date: 2020-08-25 18:54:25
 categories: Blog
 tags: Bilingual Students, Spanish-speaking Students, English-speaking students, Screening for Language Impairment, Typical Language Development, Nonword Repetition Task
 ---

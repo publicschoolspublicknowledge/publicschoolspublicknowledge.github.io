@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Discussion-Based Approaches, Student Understanding, and Student Achievement
-date: 2021-02-09 15:50:33
 categories: Blog
 tags: Student Achievement, Discussion, Lower Track Classes, English and Language Arts, Literacy
 ---

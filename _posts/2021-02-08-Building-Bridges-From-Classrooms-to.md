@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Building Bridges From Classrooms to Networked Publics: Helping Students Write for the Audience They Want
-date: 2021-02-08 17:54:09
 categories: Blog
 tags: networked publics, creative writing, writing assessment, fanfiction, literacy
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Urban School Principals and Their Role as Multicultural Leaders
-date: 2020-03-09 17:12:22
 categories: Blog
 tags: multicultural leadership; principal preparation; diversity; school administration
 ---
