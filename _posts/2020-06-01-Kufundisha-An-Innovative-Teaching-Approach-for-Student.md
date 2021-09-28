@@ -9,7 +9,7 @@ tags: [Kufundisha, Culturally-Relevant-Teaching, African-Centered, Black-Studies
 
 ---
 
-## Author(s): Hackett, Cedric D.
+## Author(s): Cedric D. Hackett
 
 ### Published: October, 2016 in Journal of Pan African Studies
 
@@ -30,20 +30,26 @@ Literature Review, Intervention
 
 
 #### Setting:
-Implementation of a Kufundisha program at a California institution for higher learning with 124 participants – 74% of whom identified as Black or African American. 
+Implementation of a Kufundisha program at a California institution for higher learning with 124 participants – 74% of whom identified as Black or African American.
 
 
 #### Key Findings:
-• Traditional teaching methods, particularly for African American students in white institutions, are not always effective pedagogical practices in helping students actively engage in their learning experience.  • Kufundisha, which involves education based on African culture, correlates with a greater awareness of the Black community's needs regarding higher education.  • Kufundisha improves cultural awareness among all participants. • Kufundisha is a proven, culturally responsive teaching model that helps faculty understand their students' social realities in a way that is racially engaging regardless of race or ethnicity.  • Kufundisha is a teaching method found to foster validation, empowerment, and transformation in a racially liberating way, leading to college retention and success.  
+
+- Traditional teaching methods, particularly for African American students in white institutions, are not always effective pedagogical practices in helping students actively engage in their learning experience.  
+- Kufundisha, which involves education based on African culture, correlates with a greater awareness of the Black community's needs regarding higher education.  
+- Kufundisha improves cultural awareness among all participants.
+- Kufundisha is a proven, culturally responsive teaching model that helps faculty understand their students' social realities in a way that is racially engaging regardless of race or ethnicity.  
+- Kufundisha is a teaching method found to foster validation, empowerment, and transformation in a racially liberating way, leading to college retention and success.  
 
 
 #### Implications:
-When studying how to increase cultural awareness among the student population, the following should be considered: • Providing education on cultural differences will improve and enhance cultural awareness. • Cultural awareness is best achieved through entire campus support, including administrative support. 
+When studying how to increase cultural awareness among the student population, the following should be considered:
+- Providing education on cultural differences will improve and enhance cultural awareness.
+- Cultural awareness is best achieved through entire campus support, including administrative support.
 
 
 #### Limitations:
-The study involves only one institution and one particular method of instruction, Kufundisha. Therefore, the results are valid for Kufundisha, but other culturally distinct methods would each require their own evaluation. Further study should also include a larger sample to ensure a more representative study. 
+The study involves only one institution and one particular method of instruction, Kufundisha. Therefore, the results are valid for Kufundisha, but other culturally distinct methods would each require their own evaluation. Further study should also include a larger sample to ensure a more representative study.
 
 
 #### Compiled by: Haneen Al Dabbagh
-

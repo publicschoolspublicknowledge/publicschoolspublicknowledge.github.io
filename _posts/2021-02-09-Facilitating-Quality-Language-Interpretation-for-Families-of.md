@@ -34,11 +34,31 @@ U.S. K-12 Schools
 
 
 #### Key Findings:
-• When language interpreters are not competent interpretation errors occur. These errors are likely to go unnoticed by other IEP meeting attendees.  • Four common language interpretation errors are of importance during IEP meetings: o Omission: Interpretation deletes in whole or in part the message stated by a speaker. o Addition: Interpretation includes information not stated by a speaker. o Condensation: Interpretation simplifies a message stated by a speaker. o Substitution: Interpretation includes ideas and words not stated by a speaker and inappropriately replaced by the interpreter. • Aside from resulting in general confusion, language interpretation errors could preclude parent from equally participating in the educational decision making and planning for their children. • Errors often arise when interpreters use highly specialized legal terms in English, but translate them to colloquial terms in the target language which do not encompass the original idea. 
+
+- When language interpreters are not competent interpretation errors occur. These errors are likely to go unnoticed by other IEP meeting attendees.  
+- Four common language interpretation errors are of importance during IEP meetings:
+    - Omission: Interpretation deletes in whole or in part the message stated by a speaker.
+    - Addition: Interpretation includes information not stated by a speaker.
+    - Condensation: Interpretation simplifies a message stated by a speaker.
+    - Substitution: Interpretation includes ideas and words not stated by a speaker and inappropriately replaced by the interpreter. 
+- Aside from resulting in general confusion, language interpretation errors could preclude parent from equally participating in the educational decision making and planning for their children.
+- Errors often arise when interpreters use highly specialized legal terms in English, but translate them to colloquial terms in the target language which do not encompass the original idea.
 
 
 #### Implications:
-Schools should ensure that language interpreters • Are properly trained and credentialed and are fluent in both languages. o School staff – most often secretaries and janitors – are occasionally brought in to serve as interpreters. In addition, interpreters need adequate levels of education and training in interpreting to avoid possible errors. Many formal programs are available at colleges nationwide and at training programs not affiliated with a university. • understand basic special education terminology and processes. o Training to enhance interpreter preparation should target improving their knowledge of special education law and terminology, disability and medical terms, and other technical language, as well as their knowledge of available resources for families o Interpreters should have knowledge of special education processes, such as referral, assessment, and placement procedures. o It is critical that they understand the context of the meeting to accurately interpret speakers' meaning. o The authors recommend that interpreters meet with the parents and team together to debrief after the meeting. • demonstrate ethics and confidentiality. o Interprets should abide by certain ethical principles such as confidentiality, impartiality, accuracy, respect, professionalism, accuracy, and cultural responsiveness. o Interpreters and teams should be clear regarding their expected interpreter roles and the standards of professionalism expected within that role. • are culturally competent. o Interpreters should understand the importance of culture, be aware of the dynamics that may result from cultural differences, and take steps to expand their own cultural knowledge 
+Schools should ensure that language interpreters
+- Are properly trained and credentialed and are fluent in both languages.
+    - School staff – most often secretaries and janitors – are occasionally brought in to serve as interpreters. In addition, interpreters need adequate levels of education and training in interpreting to avoid possible errors. Many formal programs are available at colleges nationwide and at training programs not affiliated with a university. 
+- understand basic special education terminology and processes.
+    - Training to enhance interpreter preparation should target improving their knowledge of special education law and terminology, disability and medical terms, and other technical language, as well as their knowledge of available resources for families
+    - Interpreters should have knowledge of special education processes, such as referral, assessment, and placement procedures.
+    - It is critical that they understand the context of the meeting to accurately interpret speakers' meaning.
+    - The authors recommend that interpreters meet with the parents and team together to debrief after the meeting. 
+- demonstrate ethics and confidentiality.
+    - Interprets should abide by certain ethical principles such as confidentiality, impartiality, accuracy, respect, professionalism, accuracy, and cultural responsiveness.
+    - Interpreters and teams should be clear regarding their expected interpreter roles and the standards of professionalism expected within that role. 
+- are culturally competent.
+    - Interpreters should understand the importance of culture, be aware of the dynamics that may result from cultural differences, and take steps to expand their own cultural knowledge 
 
 
 #### Limitations:
@@ -46,4 +66,3 @@ Schools should ensure that language interpreters • Are properly trained and cr
 
 
 #### Compiled by: Jo
-

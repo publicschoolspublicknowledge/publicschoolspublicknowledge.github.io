@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Until Somebody Hears Me- Parent Voice and Advocacy in Special Educational decision making
+title: Until Somebody Hears Me - Parent Voice and Advocacy in Special Educational decision making
 date: 2020-03-31
 comments: true
 categories: Blog
@@ -9,9 +9,9 @@ tags: [guardians-of-students-with-disabilities, guardian-psychoeducation]
 
 ---
 
-## Author(s): Hess, Robyn S. Amy M. Molina and Elizabeth B. Kozleski
+## Author(s): Robyn S. Hess, Amy M. Molina, Elizabeth B. Kozleski
 
-### Published: 2006 in British Journal of Special Education 
+### Published: 2006 in British Journal of Special Education
 
 #### [URL to article](http://eds.a.ebscohost.com.proxy.uchicago.edu/eds/pdfviewer/pdfviewer?vid=1&sid=3e619d66-2e8f-464d-af69-e298618c20df%40sessionmgr4006)
 
@@ -30,7 +30,7 @@ Interview
 
 
 #### Setting:
-Urban school district in the American Southwest with a high population of students of color and Spanish speaking guardians 
+Urban school district in the American Southwest with a high population of students of color and Spanish speaking guardians
 
 
 #### Key Findings:
@@ -42,8 +42,7 @@ These findings suggest a systems level approach to psychoeducation and relations
 
 
 #### Limitations:
-The focus groups illuminated the need for educators to support guardians navigate the complex web of federal, state and school-level polices that affect their child and assist guardians in becoming advocates for their child. While the paper reflected this in relation to families of color and Spanish speaking families, no specific strategies were explored. 
+The focus groups illuminated the need for educators to support guardians navigate the complex web of federal, state and school-level polices that affect their child and assist guardians in becoming advocates for their child. While the paper reflected this in relation to families of color and Spanish speaking families, no specific strategies were explored.
 
 
 #### Compiled by: Samantha Guz
-

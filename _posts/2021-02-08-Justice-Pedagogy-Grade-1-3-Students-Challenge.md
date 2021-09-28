@@ -34,11 +34,23 @@ Intervention
 
 
 #### Key Findings:
-• Justice-orientated teaching  o is a framework built upon the supposition that students learn from critically examining existing structural inequities o is designed to foster students’ critical examination of the world and to prompt them to consider possibilities for social change. o asks teachers and students to identify and address issues of injustice, analyze underlying causes, and develop and enact possible solutions. • Teachers who are successful in using justice-oriented pedagogy o Continually deepen their own social studies content knowledge o Develop reciprocal relationships with students o embrace their role in challenging unjust conditions or events o work with students, communities and other stakeholders to create change. • Challenging Racist Statues: Social Justice Curriculum Implementation o younger children focused primarily on the physical aspects of the monument while some of the third-graders engaged in more nuanced conversation. o Children brought the possibility of bias in the design of monuments into their critical talk. o In assessing the effectiveness of their teaching, the pre-service teachers felt the children had effectively applied the three phases of civic literacy:  Describe a social problem  Study the problem  Address the social problem o The teachers felt that the children addressed issues of injustice after critiquing the status quo using a critical lens o The teachers did not feel they had been successful in helping the children analyze the causes of these injustices  Student understandings seemed to focus on the individual actions of Tillman as a racist, and not the systemic action that led to him being honored with a monument • Providing students with opportunities to use a critical lens is a foundational step in helping them become agents of transformation. 
 
-
-#### Implications:
--
+- Justice-orientated teaching
+    - is a framework built upon the supposition that students learn from critically examining existing structural inequities
+    - is designed to foster students’ critical examination of the world and to prompt them to consider possibilities for social change.
+    - asks teachers and students to identify and address issues of injustice, analyze underlying causes, and develop and enact possible solutions.
+- Teachers who are successful in using justice-oriented pedagogy
+    - Continually deepen their own social studies content knowledge
+    - Develop reciprocal relationships with students
+    - embrace their role in challenging unjust conditions or events
+    - work with students, communities and other stakeholders to create change.
+- Challenging Racist Statues: Social Justice Curriculum Implementation
+    - younger children focused primarily on the physical aspects of the monument while some of the third-graders engaged in more nuanced conversation.
+    - Children brought the possibility of bias in the design of monuments into their critical talk.
+    - In assessing the effectiveness of their teaching, the pre-service teachers felt the children had effectively applied the three phases of civic literacy:  Describe a social problem  Study the problem  Address the social problem
+    - The teachers felt that the children addressed issues of injustice after critiquing the status quo using a critical lens
+    - The teachers did not feel they had been successful in helping the children analyze the causes of these injustices  Student understandings seemed to focus on the individual actions of Tillman as a racist, and not the systemic action that led to him being honored with a monument
+- Providing students with opportunities to use a critical lens is a foundational step in helping them become agents of transformation.
 
 
 #### Limitations:
@@ -46,4 +58,3 @@ This article presents only one case study. It is not necessarily generalizable.
 
 
 #### Compiled by: Jo
-

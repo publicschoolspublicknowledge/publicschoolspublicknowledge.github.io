@@ -34,16 +34,11 @@ rural india
 
 
 #### Key Findings:
-• The use of Music Information Retrieval (MIR technologies) and assessment technologies in music learning applications is a budding multidisciplinary field of research. • MIR technology could allow a student to assess their own playing against a pre-recorded teacher’s version of the same piece • The researchers predict there will be immense developments in the field of music education and learning with computer-based technologies in the future. 
+- The use of Music Information Retrieval (MIR technologies) and assessment technologies in music learning applications is a budding multidisciplinary field of research. - MIR technology could allow a student to assess their own playing against a pre-recorded teacher’s version of the same piece - The researchers predict there will be immense developments in the field of music education and learning with computer-based technologies in the future.
 
 
 #### Implications:
-• There are still many obstacles to the integration of MIR technologies in music learning programs for rural communities. This points to the need for collaboration between music technology engineers and community members.
-
-
-#### Limitations:
--
+- There are still many obstacles to the integration of MIR technologies in music learning programs for rural communities. This points to the need for collaboration between music technology engineers and community members.
 
 
 #### Compiled by: Jo Blankson
-

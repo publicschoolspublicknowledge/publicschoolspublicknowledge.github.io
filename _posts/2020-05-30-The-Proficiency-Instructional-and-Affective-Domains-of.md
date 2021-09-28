@@ -9,7 +9,7 @@ tags: [English-language-learners, long-term-English-language-learners, bilingual
 
 ---
 
-## Author(s): Artigliere, Marcus
+## Author(s): Marcus Artigliere
 
 ### Published: May 2019 in The Electronic Journal for English as a Second Language
 
@@ -29,16 +29,17 @@ What is the proficiency level of Long-term English Language Learners, or LTELLs,
 Literature Review
 
 
-#### Setting:
-nan
-
-
 #### Key Findings:
-• Proficiency characteristics can range from an inaccurate self-perception to difficulties interacting with the academic context. • Instructional factors include placement of LTELLs, such as when an older LTELL might be placed in a classroom with younger ELLs.  • Additional factors include how the student perceives themselves, as well as factors like confidence and personal motivation. 
+
+- Proficiency characteristics can range from an inaccurate self-perception to difficulties interacting with the academic context.
+- Instructional factors include placement of LTELLs, such as when an older LTELL might be placed in a classroom with younger ELLs.  
+- Additional factors include how the student perceives themselves, as well as factors like confidence and personal motivation.
 
 
 #### Implications:
-Instruction for LTELLs should be informed by the following principles: • The proficiency level of LTELLs are influenced by a variety of factors, ranging from poor instruction to feelings of low self-esteem. Instructional factors need to consider all of these aspects when providing instruction, including both curricular and environmental considerations. •  Many LTELLs will benefit from encouragement as a means to boost motivation and enhance self-esteem. 
+Instruction for LTELLs should be informed by the following principles:
+- The proficiency level of LTELLs are influenced by a variety of factors, ranging from poor instruction to feelings of low self-esteem. Instructional factors need to consider all of these aspects when providing instruction, including both curricular and environmental considerations.
+- Many LTELLs will benefit from encouragement as a means to boost motivation and enhance self-esteem.
 
 
 #### Limitations:
@@ -46,4 +47,3 @@ The literature review is extensive, but a natural limitation is that the study o
 
 
 #### Compiled by: Haneen Al Dabbagh
-

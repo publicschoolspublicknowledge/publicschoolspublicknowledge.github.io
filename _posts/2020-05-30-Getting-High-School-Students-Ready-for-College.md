@@ -9,7 +9,7 @@ tags: [High-School-Students, College-Bound-Students, College-Readiness, Statisti
 
 ---
 
-## Author(s): Townsley, Matt; Varga, Matt
+## Author(s): Matt Townsley, Matt Varga
 
 ### Published: N/A, 2018 in Journal of Research in Education
 
@@ -18,7 +18,7 @@ tags: [High-School-Students, College-Bound-Students, College-Readiness, Statisti
 ### Research Focus Area: Grading systems that work and are meaningful in the 21st century especially for colleges and employeers, and for topics like PE, arts, and health
 
 #### Abstract:
-Some high schools are moving towards standards-based grading in an attempt to produce consistent grading practices; however, the change’s impact on college readiness is not clear. The purpose of this study was to explore the effect of high school’s grading practices as it relates to ACT scores and grade point averages (GPAs). Existing data were collected from two comparable high schools using different grading practices in a Midwestern state as determined by state department of education-provided demographics: enrollment, socioeconomic status (as defined by percentage of students receiving free or reduced lunch), and ethnicity. Stepwise multiple linear regressions were used to determine if GPA and the method of high school grading practices, standards-based grading or traditional grading, used predict ACT scores. The findings revealed GPAs remain unchanged and ACT scores may be negatively impacted when high schools utilize standards-based grading practices. In addition, traditional grading practices were a small factor combined with GPA in predicting ACT scores. 
+Some high schools are moving towards standards-based grading in an attempt to produce consistent grading practices; however, the change’s impact on college readiness is not clear. The purpose of this study was to explore the effect of high school’s grading practices as it relates to ACT scores and grade point averages (GPAs). Existing data were collected from two comparable high schools using different grading practices in a Midwestern state as determined by state department of education-provided demographics: enrollment, socioeconomic status (as defined by percentage of students receiving free or reduced lunch), and ethnicity. Stepwise multiple linear regressions were used to determine if GPA and the method of high school grading practices, standards-based grading or traditional grading, used predict ACT scores. The findings revealed GPAs remain unchanged and ACT scores may be negatively impacted when high schools utilize standards-based grading practices. In addition, traditional grading practices were a small factor combined with GPA in predicting ACT scores.
 
 
 #### Research Question(s):
@@ -34,11 +34,15 @@ Two Midwestern high schools were evaluated using test scores and GPAs based on d
 
 
 #### Key Findings:
-• GPAs do not seem to be affected by grading method. • Traditional methods indicate higher GPA scores when compared with standards-based methods. • Traditional methods correlate with higher ACT scores, meaning that GPA and traditional methods can be used to predict higher scores.  
+- GPAs do not seem to be affected by grading method.
+- Traditional methods indicate higher GPA scores when compared with standards-based methods.
+- Traditional methods correlate with higher ACT scores, meaning that GPA and traditional methods can be used to predict higher scores.  
 
 
 #### Implications:
-When choosing between standards-based or traditional instruction, the following should be considered: • Traditional methods may provide a form of instruction that allows information to be more easily retained. • Standards-based instruction, which involves assessing mastery rather than assigning a cumulative grade, is not aligned with what the ACT currently measures regarding proficiency.
+When choosing between standards-based or traditional instruction, the following should be considered:
+- Traditional methods may provide a form of instruction that allows information to be more easily retained.
+- Standards-based instruction, which involves assessing mastery rather than assigning a cumulative grade, is not aligned with what the ACT currently measures regarding proficiency.
 
 
 #### Limitations:
@@ -46,4 +50,3 @@ Only two midwestern schools were evaluated. This is a very limited sample, so fu
 
 
 #### Compiled by: Haneen Al Dabbagh
-

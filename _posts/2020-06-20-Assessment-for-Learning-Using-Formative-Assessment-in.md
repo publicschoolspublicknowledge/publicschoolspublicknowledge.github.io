@@ -9,7 +9,7 @@ tags: [Formative-Evaluation, Problem-Based-Learning, Student-Projects, Active-Le
 
 ---
 
-## Author(s): Trauth-Nare, Amy; Buck, Gayle
+## Author(s): Amy Trauth-Nare, Gayle Buck
 
 ### Published: January, 2011 in Science Teacher
 
@@ -29,16 +29,18 @@ How can formative assessment be used throughout a project-based learning (PBL) u
 Literature Review
 
 
-#### Setting:
-nan
-
-
 #### Key Findings:
-• Formative assessment is assessment for learning that is conducted regularly throughout the unit to elicit students’ understanding and guide instructional decisions. • Formative assessment, as a primer, can be used as a pre-assessment to reveal student interests, background knowledge and pre-conceptions about science topics. • Students often lose sight of the learning goals during PBL; thus, formative assessment should be used regularly to monitor student learning and help them refocus. 
+
+- Formative assessment is assessment for learning that is conducted regularly throughout the unit to elicit students’ understanding and guide instructional decisions.
+- Formative assessment, as a primer, can be used as a pre-assessment to reveal student interests, background knowledge and pre-conceptions about science topics.
+- Students often lose sight of the learning goals during PBL; thus, formative assessment should be used regularly to monitor student learning and help them refocus.
 
 
 #### Implications:
-Formative assessment in the form of daily or weekly reflections is only effective if it is used to: • Monitor student learning in order to reteach concepts or adjust portions of the unit. • Provide direct, specific feedback to students on their progress towards learning goals. • Help students reflect on what they do and do not understand, rather than grade them. 
+Formative assessment in the form of daily or weekly reflections is only effective if it is used to:
+- Monitor student learning in order to reteach concepts or adjust portions of the unit.
+- Provide direct, specific feedback to students on their progress towards learning goals.
+- Help students reflect on what they do and do not understand, rather than grade them.
 
 
 #### Limitations:
@@ -46,4 +48,3 @@ This study is written as a literature review and an instructional guide for PBL 
 
 
 #### Compiled by: Haneen Al Dabbagh
-

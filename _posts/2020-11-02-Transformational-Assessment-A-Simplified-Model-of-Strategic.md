@@ -34,16 +34,47 @@ American schools
 
 
 #### Key Findings:
-• A major roadblock to strategic planning is the time it takes. • The objective of Transformational Assessment is to energize and empower school personnel to engage in reform planning that addresses the specific needs of each school community and builds school leaders in all stakeholders. • Central to Transformational Assessment is a nonjudgmental approach to data gathering and interpretation. • Transformational Assessment o is designed to enhance self determination by including teachers, students, and parents as well as administrators in the planning of school matters. It encourages school personnel to acknowledge they have knowledge in what makes an ideal school. o Proposes a roadmap for navigating strategic planning o Provides an organized process for educational leaders to use while engaging in strategic planning. o Encourages schools to identify a new comprehensive model rather than merely identifying minor areas of needed improvement o Foster collective ownership by soliciting stakeholders to engage in a series of tasks that become progressively more concrete as the process unfolds. o Is a stakeholder-driven process. o Results in qualitatively different results for each school. o Emphasizes the importance of data in the decision-making process 
+
+- A major roadblock to strategic planning is the time it takes.
+- The objective of Transformational Assessment is to energize and empower school personnel to engage in reform planning that addresses the specific needs of each school community and builds school leaders in all stakeholders.
+- Central to Transformational Assessment is a nonjudgmental approach to data gathering and interpretation.
+- Transformational Assessment
+    - is designed to enhance self determination by including teachers, students, and parents as well as administrators in the planning of school matters. It encourages school personnel to acknowledge they have knowledge in what makes an ideal school.
+    - Proposes a roadmap for navigating strategic planning
+    - Provides an organized process for educational leaders to use while engaging in strategic planning.
+    - Encourages schools to identify a new comprehensive model rather than merely identifying minor areas of needed improvement
+    - Foster collective ownership by soliciting stakeholders to engage in a series of tasks that become progressively more concrete as the process unfolds.
+    - Is a stakeholder-driven process.
+    - Results in qualitatively different results for each school.
+    - Emphasizes the importance of data in the decision-making process
 
 
 #### Implications:
-The Transformational Assessment model has 5 steps 1. Visioning a. Stakeholders are brought together to clarify their understanding of the mission and goals of their school. This is done by identifying the qualities in a particular school that make it unique and set it apart from other schools. b. stakeholders engage in a workshop session lasting about four hours c. Goals of visioning i. create a shared vision for the school ii. create buy-in by all stakeholders iii. identify the qualities a particular school community finds necessary for an effective school 2. Refraction a. The ideas and expectations set forth in Step 1 are separated into their constituent themes. b. These themes are identified as categories which are discussed or voted on until consensus on the categories is achieved. c. The goal of refraction is to develop a limited number of themes which form the basis for the school’s assessment strategy. 3. Assessment a. The purpose of this step is to assure agreement on the vision identified in visioning and refraction, steps 1 and 2.  4. Investigation a. In this step, the general directions for change are formed into specific plans. b. Strategic work groups are formed to investigate the research on specific ideas. In a final report to the team, each strategic work groups makes specific recommendations about how ideas can be implemented. c. Strategic work groups are composed of teachers, administrators, school support staff, students, parents, and community members. Students are often the most energetic and excited members of these teams. 5. Implementation a. Implementation must go hand in hand with further assessment. All parties must be open to hearing concerns and responding to them. i. It is important, however, to make changes based on well-constructed and predetermined assessments, rather than on the complaints of some. b. Planning teams should expect all changes to be met with initial resistance. c. Eventually, norming comes about, a time when some teachers are on board with the change and encourage their colleagues to try it. d. As the critical mass grows, performing occurs. Performing may take three to five years to reach. This is when there is complete acceptance of the changes. 
+The Transformational Assessment model has 5 steps
 
-
-#### Limitations:
--
+1. Visioning
+    a. Stakeholders are brought together to clarify their understanding of the mission and goals of their school. This is done by identifying the qualities in a particular school that make it unique and set it apart from other schools.
+    b. stakeholders engage in a workshop session lasting about four hours
+    c. Goals of visioning
+        i. create a shared vision for the school
+        ii. create buy-in by all stakeholders
+        iii. identify the qualities a particular school community finds necessary for an effective school
+2. Refraction
+    a. The ideas and expectations set forth in Step 1 are separated into their constituent themes.
+    b. These themes are identified as categories which are discussed or voted on until consensus on the categories is achieved.
+    c. The goal of refraction is to develop a limited number of themes which form the basis for the school’s assessment strategy.
+3. Assessment
+    a. The purpose of this step is to assure agreement on the vision identified in visioning and refraction, steps 1 and 2.
+4. Investigation
+    a. In this step, the general directions for change are formed into specific plans.
+    b. Strategic work groups are formed to investigate the research on specific ideas. In a final report to the team, each strategic work groups makes specific recommendations about how ideas can be implemented.
+    c. Strategic work groups are composed of teachers, administrators, school support staff, students, parents, and community members. Students are often the most energetic and excited members of these teams.
+5. Implementation
+    a. Implementation must go hand in hand with further assessment. All parties must be open to hearing concerns and responding to them.
+        i. It is important, however, to make changes based on well-constructed and predetermined assessments, rather than on the complaints of some.
+    b. Planning teams should expect all changes to be met with initial resistance.
+    c. Eventually, norming comes about, a time when some teachers are on board with the change and encourage their colleagues to try it.
+    d. As the critical mass grows, performing occurs. Performing may take three to five years to reach. This is when there is complete acceptance of the changes.
 
 
 #### Compiled by: Jo Blankson
-

@@ -34,16 +34,28 @@ Middle school students (focused on Year 7 students (11-13 years old)) at a Chris
 
 
 #### Key Findings:
-• Year 7 students demonstrated greater diversity of personal viewpoints, which could suggest that those who enrolled in Year 7 have broader, less entrenched worldviews than those who have been at the school longer. • The question ‘did students who enrolled beginning in Year 7 have a higher diversity in personal viewpoints, leading to disciplinary situations?’ was not able to be answered, as the Year 7 enrollees’ answers did not indicate personal viewpoints that approved of bullying-type behavior. • The use of the concept of complex personal viewpoints for coding became necessary to explain the results of the survey. An overview of the student answers revealed that students tended to use two or more personal viewpoints, that is, complex personal viewpoints, in their answers. • The life-issues questions differed in their ability to engender complex thinking (explained by the different task each question asked the students to perform). • Questions that asked students what they would do in a difficult life-situation appeared to engage them in deeper thinking.  o Although this point may not be novel, it needs to be noted by teachers who focus on obtaining ‘closed answers’, such as Bible teaching. • There authors found support for the theory that when students take the third-person perspective in considering a life-issue there is an increase in their use of complex personal viewpoints, and it is speculated that this indicates deeper thinking. 
+
+- Year 7 students demonstrated greater diversity of personal viewpoints, which could suggest that those who enrolled in Year 7 have broader, less entrenched worldviews than those who have been at the school longer.
+- The question ‘did students who enrolled beginning in Year 7 have a higher diversity in personal viewpoints, leading to disciplinary situations?’ was not able to be answered, as the Year 7 enrollees’ answers did not indicate personal viewpoints that approved of bullying-type behavior.
+- The use of the concept of complex personal viewpoints for coding became necessary to explain the results of the survey. An overview of the student answers revealed that students tended to use two or more personal viewpoints, that is, complex personal viewpoints, in their answers.
+- The life-issues questions differed in their ability to engender complex thinking (explained by the different task each question asked the students to perform).
+- Questions that asked students what they would do in a difficult life-situation appeared to engage them in deeper thinking.
+    - Although this point may not be novel, it needs to be noted by teachers who focus on obtaining ‘closed answers’, such as Bible teaching. 
+- There authors found support for the theory that when students take the third-person perspective in considering a life-issue there is an increase in their use of complex personal viewpoints, and it is speculated that this indicates deeper thinking.
 
 
 #### Implications:
-• The use of a Personal Viewpoint vocabulary has merit as a way of indicating the thinking processes Year 7 students use when seeking to resolve life-issues relevant to their current life situation. It allows the students’ answers to be more accurately assessed. • Teachers who provide students with opportunities to consciously use their personal viewpoints when undertaking new work, especially in life-issues topics, may see an increase in the students’ understanding of the material. o To maximize the benefits of incorporating the students’ personal viewpoints into a lesson, teachers could pre-test their students’ personal viewpoints on the pertinent issue before introducing a life-issues subject. This would identify entrenched student thinking that already exists with regard to any life-issues being considered. • Asking students questions that require them to take the third-person perspective would encourage many of them to access further personal viewpoints when considering a life-issue, especially from all the protagonists’ perspectives.  o Christian teachers could stimulate their students’ Christian (or other) spiritual life by inviting them to take Jesus’ perspective as the third-person perspective when considering a life-issue. 
+
+- The use of a Personal Viewpoint vocabulary has merit as a way of indicating the thinking processes Year 7 students use when seeking to resolve life-issues relevant to their current life situation. It allows the students’ answers to be more accurately assessed.
+- Teachers who provide students with opportunities to consciously use their personal viewpoints when undertaking new work, especially in life-issues topics, may see an increase in the students’ understanding of the material.
+    - To maximize the benefits of incorporating the students’ personal viewpoints into a lesson, teachers could pre-test their students’ personal viewpoints on the pertinent issue before introducing a life-issues subject. This would identify entrenched student thinking that already exists with regard to any life-issues being considered. 
+- Asking students questions that require them to take the third-person perspective would encourage many of them to access further personal viewpoints when considering a life-issue, especially from all the protagonists’ perspectives.
+    - Christian teachers could stimulate their students’ Christian (or other) spiritual life by inviting them to take Jesus’ perspective as the third-person perspective when considering a life-issue. 
 
 
 #### Limitations:
-• The small number of personal viewpoint choices (18) used across the five questions appeared to suggest that life-issues have a limited number of moral resolutions. This may be partly due to life-issues containing a moral dimension, because society values and expects adolescents and adults to live by internalized moral norms to enable them to flourish in their relationships.
+
+- The small number of personal viewpoint choices (18) used across the five questions appeared to suggest that life-issues have a limited number of moral resolutions. This may be partly due to life-issues containing a moral dimension, because society values and expects adolescents and adults to live by internalized moral norms to enable them to flourish in their relationships.
 
 
 #### Compiled by: Jo
-

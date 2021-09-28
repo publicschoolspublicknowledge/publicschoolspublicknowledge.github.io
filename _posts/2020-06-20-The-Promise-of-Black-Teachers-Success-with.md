@@ -9,9 +9,9 @@ tags: [Black-teachers, Black-students, Education-of-black-people, Research-perso
 
 ---
 
-## Author(s):  Milner, H. Richard IV
+## Author(s): H. Richard IV Milner
 
-### Published: N/A, 2006 in  Educational Foundations
+### Published: 2006 in  Educational Foundations
 
 #### [URL to article](http://eds.a.ebscohost.com.proxy.uchicago.edu/eds/pdfviewer/pdfviewer?vid=2&sid=4a492691-3943-487e-9a2f-9e38950dfb7e%40sessionmgr4006)
 
@@ -34,11 +34,17 @@ This study involves interviewing three retired Black teachers on their perspecti
 
 
 #### Key Findings:
-• Black teachers often feel isolated and unheard in both urban and rural contexts, as preparation programs and school culture are often tailored for white female teachers. • Black teachers are authentic, act as positive role models, see potential in their Black students and consider them capable of success. • Black teachers are highly effective because they empathize with the unique situations and needs of their black students, understanding the reasons behind behaviors while maintaining high expectations. • Black teachers motivate their students to excel through shared cultural connections that make their teaching meaningful, relevant and responsive to Black students’ lives. 
+
+- Black teachers often feel isolated and unheard in both urban and rural contexts, as preparation programs and school culture are often tailored for white female teachers.
+- Black teachers are authentic, act as positive role models, see potential in their Black students and consider them capable of success.
+- Black teachers are highly effective because they empathize with the unique situations and needs of their black students, understanding the reasons behind behaviors while maintaining high expectations.
+- Black teachers motivate their students to excel through shared cultural connections that make their teaching meaningful, relevant and responsive to Black students’ lives.
 
 
 #### Implications:
-To improve outcomes for Black students, all teachers can: • Adopt culturally responsive approaches and a structured classroom management style with high expectations for Black students.  •  Build culturally informed connections and respectful parent relationships. 
+To improve outcomes for Black students, all teachers can:
+- Adopt culturally responsive approaches and a structured classroom management style with high expectations for Black students.  
+-  Build culturally informed connections and respectful parent relationships.
 
 
 #### Limitations:
@@ -46,4 +52,3 @@ The three experts interviewed had conducted research on the topic of instructing
 
 
 #### Compiled by: Haneen Al Dabbagh
-

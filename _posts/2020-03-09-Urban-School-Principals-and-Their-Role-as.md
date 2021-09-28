@@ -9,7 +9,7 @@ tags: [multicultural-leadership, principal-preparation, diversity, school-admini
 
 ---
 
-## Author(s): Gardiner, Mary E., and Ernestine K. Enomoto.
+## Author(s): Mary E. Gardiner, Ernestine K. Enomoto
 
 ### Published: 2006 in Urban Education
 
@@ -46,4 +46,3 @@ Limited sample size, all six principals in the study were identified as Caucasia
 
 
 #### Compiled by: Karlyn Gorski
-

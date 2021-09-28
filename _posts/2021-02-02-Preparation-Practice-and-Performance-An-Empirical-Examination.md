@@ -34,11 +34,31 @@ Approximately 10,000 Oklahoma City public-school students and 408 teachers in gr
 
 
 #### Key Findings:
-• The 408 math and secondary teachers in the study have each received over 200 hours of informal (consultation and lesson modeling) training in SBI and over 160 hours of formal training in SBI from 2000 to 2002. • SBI practices that were found to be significant contributors to students' math achievement include o the use of manipulatives o self-assessment o co-operative group projects o computer technology o use of hands-on materials • SBI practices that were found to be significant contributors to students' science achievement include o the use of inquiry o self-assessment o co-operative group projects o computer technology • None of the identified SBI practices was found to be a significant contributor to student math or science achievement by gender or ethnic groupings. • Virtually none of the observed non-SBI practices was found to be a significant contributor to student math or science achievement by gender or ethnic groupings. o There is one exception:  teacher lecture was found to contribute significantly to white students' science achievement. • Although substantially more non-SBI activities than SBI activities were observed in the secondary math and science classrooms participating in the study, none of the non-SBI practices observed in the classrooms was found to significantly contribute to math or science achievement.
+
+- The 408 math and secondary teachers in the study have each received over 200 hours of informal (consultation and lesson modeling) training in SBI and over 160 hours of formal training in SBI from 2000 to 2002.
+- SBI practices that were found to be significant contributors to students' math achievement include
+    - the use of manipulatives
+    - self-assessment
+    - co-operative group projects
+    - computer technology
+    - use of hands-on materials 
+- SBI practices that were found to be significant contributors to students' science achievement include
+    - the use of inquiry
+    - self-assessment
+    - co-operative group projects
+    - computer technology 
+- None of the identified SBI practices was found to be a significant contributor to student math or science achievement by gender or ethnic groupings.
+- Virtually none of the observed non-SBI practices was found to be a significant contributor to student math or science achievement by gender or ethnic groupings.
+    - There is one exception:  teacher lecture was found to contribute significantly to white students' science achievement. 
+- Although substantially more non-SBI activities than SBI activities were observed in the secondary math and science classrooms participating in the study, none of the non-SBI practices observed in the classrooms was found to significantly contribute to math or science achievement.
 
 
 #### Implications:
-• The findings of this study support the views of reform organizations regarding the need for a re-examination of non-standards-based practices currently still dominating many math and science classrooms in American schools. • Educators should turn away from “traditional” non-standards-based practices such as lecture, independent seat work, quizzes, and text homework that still preponderates in many math and science classrooms. • Math and science educators should instead favor the SBI practices of standards-based practices such as inquiry, problem solving, co-operative learning, and use of hands-on and technology. • Results of this study asuggest the P[sup3] model Preparation, Practice, and Performance as a viable framework for empirically validating the effectiveness of Standards-based Instruction as a successful reform effort for systemic change in math and science education. 
+
+- The findings of this study support the views of reform organizations regarding the need for a re-examination of non-standards-based practices currently still dominating many math and science classrooms in American schools.
+- Educators should turn away from “traditional” non-standards-based practices such as lecture, independent seat work, quizzes, and text homework that still preponderates in many math and science classrooms.
+- Math and science educators should instead favor the SBI practices of standards-based practices such as inquiry, problem solving, co-operative learning, and use of hands-on and technology.
+- Results of this study asuggest the P[sup3] model Preparation, Practice, and Performance as a viable framework for empirically validating the effectiveness of Standards-based Instruction as a successful reform effort for systemic change in math and science education.
 
 
 #### Limitations:
@@ -46,4 +66,3 @@ Approximately 10,000 Oklahoma City public-school students and 408 teachers in gr
 
 
 #### Compiled by: Jo Blankson
-

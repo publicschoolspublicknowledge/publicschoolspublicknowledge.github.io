@@ -9,7 +9,7 @@ tags: [gifted-education-program-development, instructional-strategies, independe
 
 ---
 
-## Author(s): Westberg Karen L & Jann H. Leppien
+## Author(s): Karen L. Westberg, Jann H. Leppien
 
 ### Published: January, 2018 in Gifted Child Today: SAGE Journals
 
@@ -22,15 +22,11 @@ Including opportunities for students to conduct independent investigations is a 
 
 
 #### Research Question(s):
-What are the key components of authentic learning opportunities created for and provided to students to boost their motivation, creativity, critical thinking, and self-efficacy? 
+What are the key components of authentic learning opportunities created for and provided to students to boost their motivation, creativity, critical thinking, and self-efficacy?
 
 
 #### Methods:
 Literature Review
-
-
-#### Setting:
-nan
 
 
 #### Key Findings:
@@ -38,12 +34,11 @@ This qualitative secondary research analyzed evidence from prior research to dis
 
 
 #### Implications:
-The authors concluded that progression through these stages provided students with continued opportunities for academic challenge and advanced learning. To encourage authentic learning experiences, teachers should prepare students for scientific work by helping them develop basic research and thinking skills. In addition, students need knowledge and understanding of methodological aspects and practice discipline-specific skills. Time management skills should be another area of significant concern to boost students’ engagement in independent investigations. Mentorship throughout the process of inquiry is also essential for success. 
+The authors concluded that progression through these stages provided students with continued opportunities for academic challenge and advanced learning. To encourage authentic learning experiences, teachers should prepare students for scientific work by helping them develop basic research and thinking skills. In addition, students need knowledge and understanding of methodological aspects and practice discipline-specific skills. Time management skills should be another area of significant concern to boost students’ engagement in independent investigations. Mentorship throughout the process of inquiry is also essential for success.
 
 
 #### Limitations:
-The current secondary research conclusions rely on existing literature related to advanced learning opportunities provided to students to help them develop novel thinking and inquiry skills. Further primary research and data collection is needed to add value to the given conclusions and numerically illustrate the effectiveness of giving students the opportunity  to pursue authentic learning through interest-based independent studies. 
+The current secondary research conclusions rely on existing literature related to advanced learning opportunities provided to students to help them develop novel thinking and inquiry skills. Further primary research and data collection is needed to add value to the given conclusions and numerically illustrate the effectiveness of giving students the opportunity  to pursue authentic learning through interest-based independent studies.
 
 
 #### Compiled by: Haneen Al Dabbagh
-

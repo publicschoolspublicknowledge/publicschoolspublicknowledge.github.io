@@ -30,20 +30,29 @@ Intervention
 
 
 #### Setting:
-• Classroom intervention in 3 schools consisting of a 1-day professional development workshop. In total, participants were 168 students and 7 teachers. Differences in the levels of interactions for students placed in online groups or whole class discussions were analysed quantitatively.  The study involved three co-educational secondary schools in Auckland, New Zealand. One school served predominantly students of low socioeconomic status, one served students with of low- to mid-level socioeconomic status, and one school’s students where mostly of mid- to high-level socioeconomic status. The teachers ranged in experience from one teacher in the first year of teaching to one teacher who had taught for almost 40 years. The teachers taught either English or Geography; four of them were female and three were male. 
+
+- Classroom intervention in 3 schools consisting of a 1-day professional development workshop. In total, participants were 168 students and 7 teachers. Differences in the levels of interactions for students placed in online groups or whole class discussions were analysed quantitatively.  The study involved three co-educational secondary schools in Auckland, New Zealand. One school served predominantly students of low socioeconomic status, one served students with of low- to mid-level socioeconomic status, and one school’s students where mostly of mid- to high-level socioeconomic status. The teachers ranged in experience from one teacher in the first year of teaching to one teacher who had taught for almost 40 years. The teachers taught either English or Geography; four of them were female and three were male. 
 
 
 #### Key Findings:
-• given the appropriate training and tools, teachers and secondary students are able to increase the quality and quantity of student talk. In turn, this change may have the capacity to both increase student achievement and foster stronger levels of engagement among secondary students. • the use of uptake questions among students who were set up online in groups was significantly higher compared with those set up as a whole class, but there was no significant difference in the use of high-level questions between the two types of grouping. • students in whole-class discussions used a greater proportion of elaborated explanation than those in small groups. As a consequence, students in the whole-class discussions used fewer questions, resulting in fewer total interactions than the small groups. • Students who were set up in one large class group for discussion did not significantly increase their use of interaction through the use of questioning each other’s assertions. Instead, the nature of these students’ interactions became postings of agreement or disagreements with elaborations. 
+
+- given the appropriate training and tools, teachers and secondary students are able to increase the quality and quantity of student talk. In turn, this change may have the capacity to both increase student achievement and foster stronger levels of engagement among secondary students. 
+- the use of uptake questions among students who were set up online in groups was significantly higher compared with those set up as a whole class, but there was no significant difference in the use of high-level questions between the two types of grouping. 
+- students in whole-class discussions used a greater proportion of elaborated explanation than those in small groups. As a consequence, students in the whole-class discussions used fewer questions, resulting in fewer total interactions than the small groups. 
+- Students who were set up in one large class group for discussion did not significantly increase their use of interaction through the use of questioning each other’s assertions. Instead, the nature of these students’ interactions became postings of agreement or disagreements with elaborations. 
 
 
 #### Implications:
-• teaching the students uptake and high-level questioning appeared to foster dialogical discussions as these increased levels of student-to-student interaction • group discussions should be interactive with students questioning each other because this is more conducive to students gaining other perspectives. • Students need to be taught complex speaking skills.secondary-aged students respond well to the teacher coaching them on talk features, thus empowering them to manage the discussions themselves. • it would be useful to have students sharing as a whole class to foster domain and core knowledge at the start of a topic, so all students have an opportunity to contribute and to gain expertise from their classmates. Once the domain and core knowledge has been established, to foster critical discussions, conversation should be moved to group face-to-face discussions that then extend to online discussions, as these foster high levels of interaction. 
+
+- teaching the students uptake and high-level questioning appeared to foster dialogical discussions as these increased levels of student-to-student interaction 
+- group discussions should be interactive with students questioning each other because this is more conducive to students gaining other perspectives. 
+- Students need to be taught complex speaking skills.secondary-aged students respond well to the teacher coaching them on talk features, thus empowering them to manage the discussions themselves. 
+- it would be useful to have students sharing as a whole class to foster domain and core knowledge at the start of a topic, so all students have an opportunity to contribute and to gain expertise from their classmates. Once the domain and core knowledge has been established, to foster critical discussions, conversation should be moved to group face-to-face discussions that then extend to online discussions, as these foster high levels of interaction. 
 
 
 #### Limitations:
-• the study was asynchronous only. a further  study could examine the use of synchronous online group discussions by students.
+
+- the study was asynchronous only. a further  study could examine the use of synchronous online group discussions by students.
 
 
 #### Compiled by: Jo Blankson
-

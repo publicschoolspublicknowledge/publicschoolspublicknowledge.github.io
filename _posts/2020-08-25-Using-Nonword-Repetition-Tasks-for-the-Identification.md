@@ -9,9 +9,9 @@ tags: [Bilingual-Students, Spanish-speaking-Students, English-speaking-students,
 
 ---
 
-## Author(s): Gutierrez-Clellen, Vera F and Gabriela Simon-Cereijido
+## Author(s): Vera F. Gutierrez-Clellen, Gabriela Simon-Cereijido
 
-### Published: February 2010 in Learning Disabilities Research & Practice 
+### Published: February 2010 in Learning Disabilities Research & Practice
 
 #### [URL to article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3374488/)
 
@@ -22,7 +22,7 @@ The purpose of this study was twofold: (a) to evaluate the clinical utility of a
 
 
 #### Research Question(s):
-Can nonword repetition tasks be a more effective method for assessing language impairment in young bi-lingual learners? 
+Can nonword repetition tasks be a more effective method for assessing language impairment in young bi-lingual learners?
 
 
 #### Methods:
@@ -34,7 +34,12 @@ school classrooms in Southern California
 
 
 #### Key Findings:
--Many traditional methods of screening for language impairment in American schools are based on monolingual English-speaking students. -This study used a task of repeating Spanish- and English-sounding nonwords in order to more accurately screen bilingual students for language impairment.  -The study drew its conclusions from a total of 95 typical language development students and 49 students with language impairment from Spanish-English speaking backgrounds. The students were an average age of 6 years old.  -Using a list of specifically selected syllables to resemble English and Spanish words, the researchers asked students to repeat back nonsensical syllables.  -The results of the study showed that students with typical language developed scored significantly higher for both the English and Spanish repetition task, which demonstrates that a non-word repetition task can help screen bilingual learners. .  -Students with language impairments are expected to do worse in both languages. 
+- Many traditional methods of screening for language impairment in American schools are based on monolingual English-speaking students.
+- This study used a task of repeating Spanish- and English-sounding nonwords in order to more accurately screen bilingual students for language impairment.
+- The study drew its conclusions from a total of 95 typical language development students and 49 students with language impairment from Spanish-English speaking backgrounds. The students were an average age of 6 years old.
+- Using a list of specifically selected syllables to resemble English and Spanish words, the researchers asked students to repeat back nonsensical syllables.
+- The results of the study showed that students with typical language developed scored significantly higher for both the English and Spanish repetition task, which demonstrates that a non-word repetition task can help screen bilingual learners.
+- Students with language impairments are expected to do worse in both languages.
 
 
 #### Implications:
@@ -42,8 +47,7 @@ Due to the statistical analysis using a positive likelihood ratio, the researche
 
 
 #### Limitations:
-However, neither the English or Spanish non-word repetition task can accurately rule out the presence of language impairment, because students with typical language development may have varying skills in one language compared to the other. Due to the variations in language skill and vocabulary across the board of both students with typical language development and those with language impairments, the nonword repetition task should only be used as a screening measure alongside other clinical assessments in order to accurately place bilingual students. 
+However, neither the English or Spanish non-word repetition task can accurately rule out the presence of language impairment, because students with typical language development may have varying skills in one language compared to the other. Due to the variations in language skill and vocabulary across the board of both students with typical language development and those with language impairments, the nonword repetition task should only be used as a screening measure alongside other clinical assessments in order to accurately place bilingual students.
 
 
 #### Compiled by: Samhitha Krishnan
-

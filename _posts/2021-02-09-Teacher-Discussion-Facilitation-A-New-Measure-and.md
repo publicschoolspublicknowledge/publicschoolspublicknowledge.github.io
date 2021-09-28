@@ -34,16 +34,41 @@ The sample consisted of 360 undergraduate students enrolled in an introductory c
 
 
 #### Key Findings:
-Pilot Inventory: The pilot inventory identified instructor behaviors that affirmed students during class discussions and encouraged their participation. The most relevant behaviors identified by students include • “My teacher encourages participation during class discussions,"  • "My teacher communicates appreciation for student contributions during class discussions,"  • "My teacher values what students say during class discussions. • An important dimension to students' perceptions of classroom discussions involves the degree to which the teacher patiently and positively encourages students' participation in such discussions. This factor was titled affirms students’ discussion. • The second factor identified was labeled ”organizes discussion”. It encompasses the idea that effective classroom discussions are best facilitated by instructors who guide and direct students' contributions to the discussion. • “Affirms discussion” is supported by items such as "My teacher organizes class discussions to ensure a structured presentation of material" and "My teacher redirects class discussions if they are getting too far off point". • The third factor identified was labeled “provokes discussion”. It references the frequency with which teachers simulated debates and made controversial comments to spark discussion. • “Provokes discussion” was supported by items such as "My teacher simulates debates during class discussions," and "My teacher plays devil's advocate during class discussions,". • The fourth factor was labeled “questions students”. It describes different kinds of questions that instructors may ask during classroom discussions • “Questions students” assesses the frequency with which teachers ask open-ended, probing, leading, and thought-provoking questions, and is supported by statements such as "My teacher asks students thought-provoking questions during class discussions" • The fifth and final factor was labeled “corrects students”. It reflects the frequency with which teachers corrected erroneous contributions to classroom discussions. Student feedback suggests suggested that a final dimension to effective classroom discussions involves an effort on the part of the instructor to ensure that correct information is provided so as to enhance student understanding. • “Questions students” is supported by statements such as "My teacher helps us understand incorrect answers provided during class discussions". • Evidence suggests that graded participation is negatively associated with good discussion leadership. • Oral participation is not synonymous with student engagement.  • Student interest and student engagement are two key outcomes likely associated with effective discussion facilitation. Both interest and engagement are, at least partially, the result of the teacher and the way he or she teaches the course. o Interest is an emotion that motivate learnings and exploration. It is essential to the learning process because it enhances attention and concentration. o Engagement refers to students' behaviors inside and outside of the classroom that reflect their interest and involvement in learning. Student engagement is paramount to the learning process, as academic engagement time is one of the best predictors of learning. 
+Pilot Inventory: The pilot inventory identified instructor behaviors that affirmed students during class discussions and encouraged their participation. The most relevant behaviors identified by students include
+- “My teacher encourages participation during class discussions,"  
+- "My teacher communicates appreciation for student contributions during class discussions,"  
+- "My teacher values what students say during class discussions.
+- An important dimension to students' perceptions of classroom discussions involves the degree to which the teacher patiently and positively encourages students' participation in such discussions. This factor was titled affirms students’ discussion.
+- The second factor identified was labeled ”organizes discussion”. It encompasses the idea that effective classroom discussions are best facilitated by instructors who guide and direct students' contributions to the discussion.
+- “Affirms discussion” is supported by items such as "My teacher organizes class discussions to ensure a structured presentation of material" and "My teacher redirects class discussions if they are getting too far off point".
+- The third factor identified was labeled “provokes discussion”. It references the frequency with which teachers simulated debates and made controversial comments to spark discussion.
+- “Provokes discussion” was supported by items such as "My teacher simulates debates during class discussions," and "My teacher plays devil's advocate during class discussions,".
+- The fourth factor was labeled “questions students”. It describes different kinds of questions that instructors may ask during classroom discussions
+- “Questions students” assesses the frequency with which teachers ask open-ended, probing, leading, and thought-provoking questions, and is supported by statements such as "My teacher asks students thought-provoking questions during class discussions"
+- The fifth and final factor was labeled “corrects students”. It reflects the frequency with which teachers corrected erroneous contributions to classroom discussions. Student feedback suggests suggested that a final dimension to effective classroom discussions involves an effort on the part of the instructor to ensure that correct information is provided so as to enhance student understanding.
+- “Questions students” is supported by statements such as "My teacher helps us understand incorrect answers provided during class discussions".
+- Evidence suggests that graded participation is negatively associated with good discussion leadership.
+- Oral participation is not synonymous with student engagement.  
+- Student interest and student engagement are two key outcomes likely associated with effective discussion facilitation. Both interest and engagement are, at least partially, the result of the teacher and the way he or she teaches the course.
+    - Interest is an emotion that motivate learnings and exploration. It is essential to the learning process because it enhances attention and concentration.
+    - Engagement refers to students' behaviors inside and outside of the classroom that reflect their interest and involvement in learning. Student engagement is paramount to the learning process, as academic engagement time is one of the best predictors of learning. 
 
 
 #### Implications:
-• The researchers suggest that instructors should strive to structure and facilitate discussion in a way that motivates students to participate for intrinsic reasons rather than extrinsic reasons, such as participation grades (which merely provoke compliance behaviors). • Teachers can facilitate effective discussions by: o patiently and positively encouraging students to participate in the discussion (affirming) o guiding and directing students' contributions (organizing) o making thought-provoking and controversial comments to spark discussion (provoking) o asking a variety of questions (questioning) o correcting erroneous contributions (correcting) 
+
+- The researchers suggest that instructors should strive to structure and facilitate discussion in a way that motivates students to participate for intrinsic reasons rather than extrinsic reasons, such as participation grades (which merely provoke compliance behaviors).
+- Teachers can facilitate effective discussions by:
+    - patiently and positively encouraging students to participate in the discussion (affirming)
+    - guiding and directing students' contributions (organizing)
+    - making thought-provoking and controversial comments to spark discussion (provoking)
+    - asking a variety of questions (questioning)
+    - correcting erroneous contributions (correcting) 
 
 
 #### Limitations:
-• the researchers did not consider individual student differences. Instructional scholars have documented that students bring different characteristics and traits with them to the classroom which influence their perceptions and interpretations of instructor behaviors  • The majority of participants were first- or second-year undergraduate students from a private university who were predominantly white and may have had limited exposure to various pedagogical methods, including the use of classroom discussions.  
+
+- the researchers did not consider individual student differences. Instructional scholars have documented that students bring different characteristics and traits with them to the classroom which influence their perceptions and interpretations of instructor behaviors  
+- The majority of participants were first- or second-year undergraduate students from a private university who were predominantly white and may have had limited exposure to various pedagogical methods, including the use of classroom discussions.  
 
 
 #### Compiled by: Jo
-

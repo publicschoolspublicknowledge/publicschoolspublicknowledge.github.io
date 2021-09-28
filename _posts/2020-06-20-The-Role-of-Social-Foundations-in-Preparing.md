@@ -9,9 +9,9 @@ tags: [Teaching-Methods, Educational-Sociology, Preservice-Teacher-Education, Te
 
 ---
 
-## Author(s):  Ryan, Ann Marie
+## Author(s): Ann Marie Ryan
 
-### Published: N/A, 2006 in Multicultural Education
+### Published: 2006 in Multicultural Education
 
 #### [URL to article](http://eds.a.ebscohost.com.proxy.uchicago.edu/eds/pdfviewer/pdfviewer?vid=1&sid=2a1acdcd-da30-47a2-b82a-ba0f784bad92%40sessionmgr4008)
 
@@ -29,12 +29,11 @@ How can culturally relevant pedagogy increase the achievement of low-income mino
 Literature Review
 
 
-#### Setting:
-nan
-
-
 #### Key Findings:
-• Children of color routinely score lower on reading proficiency exams and are overrepresented in special education. • Cultural knowledge does not automatically translate into culturally relevant teaching; effective teachers of minorities are keenly aware of cultural identities and social class. • High expectations for success, home support and understanding obstacles unique to race are critical to improving outcomes for children of color. 
+
+- Children of color routinely score lower on reading proficiency exams and are overrepresented in special education.
+- Cultural knowledge does not automatically translate into culturally relevant teaching; effective teachers of minorities are keenly aware of cultural identities and social class.
+- High expectations for success, home support and understanding obstacles unique to race are critical to improving outcomes for children of color.
 
 
 #### Implications:
@@ -46,4 +45,3 @@ This literature review draws on a body of research regarding minority achievemen
 
 
 #### Compiled by: Haneen Al Dabbagh
-

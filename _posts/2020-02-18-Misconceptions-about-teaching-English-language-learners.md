@@ -9,7 +9,7 @@ tags: [English-Language-Learners, Second-Language-Learning, Misconceptions, Lear
 
 ---
 
-## Author(s): Harper, Candace Ester de Jong
+## Author(s): Candace Ester de Jong Harper
 
 ### Published: 2004-10-15 in Journal of Adolescent and Adult Literacy
 
@@ -33,17 +33,34 @@ Literature Review
 American classrooms, interventions for U.S.-based English Language Learners
 
 
-#### Key Findings:
-• English language-learners are the largest growing group within U.S. student population with a 138% growth in classrooms between 1979 and 1999 ((National Center for Education Statistics, 2003) • Misconception 1: Exposure and interaction will result in English language learning o Many L2 learners do not naturally engage in more than brief conversations with Native English speakers, therefore exposure to language alone does not provide the necessary grammatical and morphological basis for successful L2 development o Older learners have a more sophisticated analytic and conceptual base in L1 to draw from, so educators should use these strengths to encourage ELLs to be an active role in L2 development o Solutions: Reciprocal Teaching, asking complex questions with spaces for students to respond, rephrase students’ errors to clarify ideas, provide input on the grammatical form, or suggest a more appropriate word or phrase rather than ignoring errors entirely or correcting all writing errors directly on the journal entries • Misconception 2: All English-language learners learn English the same way and at the same rate o Previous models for teachers emphasize that English language learners would develop social language before academic language, but this has been shown to be false in cases where adults have a strong education/academic base in L1 and find it easier to translate those terms in L2  o Solutions: Teachers must be aware of interlanguage linkage between L2 and L1 and begin to understand learners’ common grammatical errors such as verb tense, plural and possessive forms, article usage, and subject/verb agreement as representative of L1 translated to English rather than assuming deviations from target language forms as cognitive disorders • Misconception 3: Good teaching for native English speakers is good teaching for ELLs o Native English speaker benchmarks as specified by district, state and national standards can be inappropriate for ELLs that follow a different developmental trajectory due to differences in reading, writing and speaking of non-native speakers o Course curriculum does not specify a need for previously acquired standard of English-language knowledge in order to be successful in learning math, science, and social studies and therefore assumes that all speakers have the same range of capacities in English o Solutions: building on readers’ existing word-recognition skills or on their knowledge of cognates or, for learners who are literate in nonalphabetic languages (such as Chinese), giving greater attention to developing letter–sound associations, “frontloading” a lecture or assigned reading with activities that highlight key language to encourage early comprehension • Misconception 4: Effective instruction means non-verbal support o Using pictures, graphic organizers and hands-on activities are useful starting tools for language learners, but often result in students learning how to “get around” the language demands of a classroom space and prevent learning in content-based classes when teachers cannot provide these non-verbal connections o Solutions: develop the skills to integrate language and content instruction; Teachers need to be able to identify language demands of their content area that may be particularly challenging for ELLs particularly in subjects like math when students have learned alternative meanings of commonly used terms 
+#### Key Findings
+- English language-learners are the largest growing group within U.S. student population with a 138% growth in classrooms between 1979 and 1999 ((National Center for Education Statistics, 2003
+- **Misconception 1:** Exposure and interaction will result in English language learning
+    - Many L2 learners do not naturally engage in more than brief conversations with Native English speakers, therefore exposure to language alone does not provide the necessary grammatical and morphological basis for successful L2 development
+    - Older learners have a more sophisticated analytic and conceptual base in L1 to draw from, so educators should use these strengths to encourage ELLs to be an active role in L2 development
+    - Solutions: Reciprocal Teaching, asking complex questions with spaces for students to respond, rephrase students’ errors to clarify ideas, provide input on the grammatical form, or suggest a more appropriate word or phrase rather than ignoring errors entirely or correcting all writing errors directly on the journal entrie
+- **Misconception 2:** All English-language learners learn English the same way and at the same rate
+    - Previous models for teachers emphasize that English language learners would develop social language before academic language, but this has been shown to be false in cases where adults have a strong education/academic base in L1 and find it easier to translate those terms in L2
+    - Solutions: Teachers must be aware of interlanguage linkage between L2 and L1 and begin to understand learners’ common grammatical errors such as verb tense, plural and possessive forms, article usage, and subject/verb agreement as representative of L1 translated to English rather than assuming deviations from target language forms as cognitive disorder
+- **Misconception 3:** Good teaching for native English speakers is good teaching for ELLs
+    - Native English speaker benchmarks as specified by district, state and national standards can be inappropriate for ELLs that follow a different developmental trajectory due to differences in reading, writing and speaking of non-native speakers
+    - Course curriculum does not specify a need for previously acquired standard of English-language knowledge in order to be successful in learning math, science, and social studies and therefore assumes that all speakers have the same range of capacities in English
+    - Solutions: building on readers’ existing word-recognition skills or on their knowledge of cognates or, for learners who are literate in nonalphabetic languages (such as Chinese), giving greater attention to developing letter–sound associations, “frontloading” a lecture or assigned reading with activities that highlight key language to encourage early comprehensio
+- **Misconception 4:** Effective instruction means non-verbal support
+    - Using pictures, graphic organizers and hands-on activities are useful starting tools for language learners, but often result in students learning how to “get around” the language demands of a classroom space and prevent learning in content-based classes when teachers cannot provide these non-verbal connections
+    - Solutions: develop the skills to integrate language and content instruction; Teachers need to be able to identify language demands of their content area that may be particularly challenging for ELLs particularly in subjects like math when students have learned alternative meanings of commonly used terms
 
 
 #### Implications:
-Teachers must critically analyze the role of language in teaching and learning by  •        examining the linguistic and cultural assumptions underlying their activities and instructional choices.  •        considering a wide range of factors when trying to understand and explain the behaviors of ELLs. These include affective factors (i.e., personality, motivation, attitude); cultural and educational background; L1 literacy level; age; and approaches to learning.  •        attempting to learn more about ways that other cultures structure their children’s educational experiences and to explore ways that languages are similar and different. Individual students’ strengths and needs should be made visible in mainstream classrooms where generalist approaches to literacy and content area instruction and assessment practices are based on native speaker norms. 
+Teachers must critically analyze the role of language in teaching and learning by:
+
+- examining the linguistic and cultural assumptions underlying their activities and instructional choices.
+- considering a wide range of factors when trying to understand and explain the behaviors of ELLs. These include affective factors (i.e., personality, motivation, attitude); cultural and educational background; L1 literacy level; age; and approaches to learning.
+- attempting to learn more about ways that other cultures structure their children’s educational experiences and to explore ways that languages are similar and different. Individual students’ strengths and needs should be made visible in mainstream classrooms where generalist approaches to literacy and content area instruction and assessment practices are based on native speaker norms.
 
 
 #### Limitations:
-This study is formatted primarily as a literature review drawing on other studies that have modeled the solutions to these strategies. Further research be able to study the effects of these models in classroom settings in order to create effective implementation and evaluation. 
+This study is formatted primarily as a literature review drawing on other studies that have modeled the solutions to these strategies. Further research be able to study the effects of these models in classroom settings in order to create effective implementation and evaluation.
 
 
 #### Compiled by: Samhitha Krishnan
-

@@ -22,7 +22,7 @@ Drawing from the authors' experiences as educators, this paper presents a semest
 
 
 #### Research Question(s):
-How successful was an experiential learning approach to simulating cross-departmental collaboration among students? Did this curriculum effectively enhance students’ understanding of the digital world and prepare them to work with current technologies appropriate for communications professions? 
+How successful was an experiential learning approach to simulating cross-departmental collaboration among students? Did this curriculum effectively enhance students’ understanding of the digital world and prepare them to work with current technologies appropriate for communications professions?
 
 
 #### Methods:
@@ -30,15 +30,26 @@ facilitation of semester-long Social Media and Advanced Writing courses that dev
 
 
 #### Setting:
-University of Tennessee-Knoxville (UTK) School of Advertising and Public Relations students 
+University of Tennessee-Knoxville (UTK) School of Advertising and Public Relations students
 
 
 #### Key Findings:
-• Phase 1: Determining The Case o The students were meant develop research-based campaigns and deliverables to help counter UTK's reputation as an "ugly" campus. The instructors secured the client's (UTK’commitment for necessary access, information and time. • Phase 2: research into insights and influencers o Students used secondary research to analyze traditional media coverage and online via digital media mentions (i.e. blogs, websites, social media channels, etc.) in order to understand how UTK's campus was portrayed. • Writing Class Research o Writing students used CisionPoint media monitoring software to analyze past media coverage of the UTK campus, university campuses in general, and campus "ugly" lists. Students answered research questions such as why campus attractiveness matters, what media consider "campus," and what UTK communicates about campus and beautification efforts. Students also conducted research to identify potential media targets, and then made recommendations for improving future media coverage. • Social Media Class Research o Students were enrolled in Hootsuite University and accessed HootsuitePro to monitor conversations and visual representations of UTK's campus attractiveness. They also identified potential social media influencers that could impact the online campus beauty dialogue. Teams surveyed and interviewed current students about their perceptions of UTK's campus "beauty" and social media communication as well as their own social media usage and preferences. o Both the Advanced Writing and Social Media students presented "insights and influencers" reports to members of the UTK team halfway through the semester. By offering immediate recommendations at the midpoint of the project, students benefited from seeing research-based recommendations immediately embraced and implemented by the UTK team. As a result, students had increased confidence going into the next phase when they created formal strategic campaigns. 
+
+- **Phase 1:** Determining The Case
+    - The students were meant develop research-based campaigns and deliverables to help counter UTK's reputation as an "ugly" campus. The instructors secured the client's (UTK’commitment for necessary access, information and time.
+- **Phase 2:** research into insights and influencers
+    - Students used secondary research to analyze traditional media coverage and online via digital media mentions (i.e. blogs, websites, social media channels, etc.) in order to understand how UTK's campus was portrayed.
+- **Writing Class Research**
+    - Writing students used CisionPoint media monitoring software to analyze past media coverage of the UTK campus, university campuses in general, and campus "ugly" lists. Students answered research questions such as why campus attractiveness matters, what media consider "campus," and what UTK communicates about campus and beautification efforts. Students also conducted research to identify potential media targets, and then made recommendations for improving future media coverage.
+- **Social Media Class Research**
+    - Students were enrolled in Hootsuite University and accessed HootsuitePro to monitor conversations and visual representations of UTK's campus attractiveness. They also identified potential social media influencers that could impact the online campus beauty dialogue. Teams surveyed and interviewed current students about their perceptions of UTK's campus "beauty" and social media communication as well as their own social media usage and preferences.
+    - Both the Advanced Writing and Social Media students presented "insights and influencers" reports to members of the UTK team halfway through the semester. By offering immediate recommendations at the midpoint of the project, students benefited from seeing research-based recommendations immediately embraced and implemented by the UTK team. As a result, students had increased confidence going into the next phase when they created formal strategic campaigns.
 
 
 #### Implications:
-• A crucial element in the semester-long project was the strong "client" engagement with students in both classes.  • With evolving professional standards and needs, it can be hard for professors to keep pace. This project spotlights the value of the often forgotten internal university communication "agency" and the professional communicators embedded in every higher education institution. 
+
+- A crucial element in the semester-long project was the strong "client" engagement with students in both classes.  
+- With evolving professional standards and needs, it can be hard for professors to keep pace. This project spotlights the value of the often forgotten internal university communication "agency" and the professional communicators embedded in every higher education institution.
 
 
 #### Limitations:
@@ -46,4 +57,3 @@ findings based on only one iteration of each course
 
 
 #### Compiled by: Jo
-

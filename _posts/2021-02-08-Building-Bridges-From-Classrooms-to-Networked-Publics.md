@@ -34,11 +34,34 @@ an independent school serving nursery to 12th grade in the U.S. Northeast  This 
 
 
 #### Key Findings:
-• Classroom activities helped students understand the practice of writing for particular networked publics. • The researchers found that incorporating networked publics into the classroom o challenged teachers and students to negotiate privacy issues o disrupted assumptions about the audience interaction available in online writing communities.  • Assertion 1: Controlling the makeup of Audiences raises privacy issues o Networked publics are spaces where writers can remain anonymous and choose when and whether to share their writing. Honoring the practices of such spaces in classroom settings means grappling with issues related to privacy. o Adolescents often appreciate the anonymity afforded by networked publics, and students expressed strong desire to keep their writing private. • Assertion 2: Cultivating audiences requires persistence o Instant feedback may be possible in networked publics, but it takes time to cultivate an audience. o Although tesearchers often tout access to an engaged audience as a benefit of networked publics, most the students in the study experienced little to no audience engagement in their online spaces. • Assertion 3: Conceptualizing audiences supports the writing act o When students examine the quality of writing shared and the modes and content of feedback available in an online space, they gain valuable insights about the networked public. o Writers’ analyses of their potential audiences informed their choice of space and their strategies for participation within that networked public. o Tensions arise around what to share with whom as students decide how much of themselves to reveal in their networked writing. Teachers must negotiate such tensions as they consider how to honor the practices of both networked publics and school-based assessment. 
+
+- Classroom activities helped students understand the practice of writing for particular networked publics.
+- The researchers found that incorporating networked publics into the classroom
+    - challenged teachers and students to negotiate privacy issues
+    - disrupted assumptions about the audience interaction available in online writing communities.  
+- Assertion 1: Controlling the makeup of Audiences raises privacy issues
+    - Networked publics are spaces where writers can remain anonymous and choose when and whether to share their writing. Honoring the practices of such spaces in classroom settings means grappling with issues related to privacy.
+    - Adolescents often appreciate the anonymity afforded by networked publics, and students expressed strong desire to keep their writing private. 
+- Assertion 2: Cultivating audiences requires persistence
+    - Instant feedback may be possible in networked publics, but it takes time to cultivate an audience.
+    - Although tesearchers often tout access to an engaged audience as a benefit of networked publics, most the students in the study experienced little to no audience engagement in their online spaces. 
+- Assertion 3: Conceptualizing audiences supports the writing act
+    - When students examine the quality of writing shared and the modes and content of feedback available in an online space, they gain valuable insights about the networked public.
+    - Writers’ analyses of their potential audiences informed their choice of space and their strategies for participation within that networked public.
+    - Tensions arise around what to share with whom as students decide how much of themselves to reveal in their networked writing. Teachers must negotiate such tensions as they consider how to honor the practices of both networked publics and school-based assessment. 
 
 
 #### Implications:
-The researchers recommend that literacy educators find opportunities to incorporate the values and expectations of networked publics in assessing students’ networked writing. They make the following suggestions. Educators should: • Expose students to different online spaces, such as Fanfiction.net, Wattpad, and Archive of Our Own, and guide their analyses of the networked publics. • Have students create profiles in networked publics, and design opportunities to support students’ networked writing throughout the year. • As part of a semester- or year-long literacy class, facilitate frequent revisits of this topic by o encouraging students to continue reading, writing, and reviewing in their online spaces o soliciting students’ reflections about their experiences; o offering creative writing assignment options for individual or group work throughout the year o welcoming students to share fanfiction they find based on texts read in class or other self-selected readings. • Provide minilessons on audience, feedback, copyright, parody, remix, creativity, and other topics to inform students’ networked writing. • Use Google Forms, or another anonymous means, so students can request help with writing mechanics on their personal writing. Review corrections with the class when it is something that all can benefit from; otherwise, respond somewhere (e.g., a class website) so any student can refer to it, if desired. 
+The researchers recommend that literacy educators find opportunities to incorporate the values and expectations of networked publics in assessing students’ networked writing. They make the following suggestions. Educators should:
+- Expose students to different online spaces, such as Fanfiction.net, Wattpad, and Archive of Our Own, and guide their analyses of the networked publics.
+- Have students create profiles in networked publics, and design opportunities to support students’ networked writing throughout the year.
+- As part of a semester- or year-long literacy class, facilitate frequent revisits of this topic by
+    - encouraging students to continue reading, writing, and reviewing in their online spaces
+    - soliciting students’ reflections about their experiences;
+    - offering creative writing assignment options for individual or group work throughout the year
+    - welcoming students to share fanfiction they find based on texts read in class or other self-selected readings. 
+- Provide minilessons on audience, feedback, copyright, parody, remix, creativity, and other topics to inform students’ networked writing.
+- Use Google Forms, or another anonymous means, so students can request help with writing mechanics on their personal writing. Review corrections with the class when it is something that all can benefit from; otherwise, respond somewhere (e.g., a class website) so any student can refer to it, if desired.
 
 
 #### Limitations:
@@ -46,4 +69,3 @@ This study was conducted over a short amount of time and all participants were s
 
 
 #### Compiled by: Jo
-

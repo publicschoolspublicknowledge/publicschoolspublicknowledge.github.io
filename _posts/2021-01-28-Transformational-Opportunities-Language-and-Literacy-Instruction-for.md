@@ -34,11 +34,37 @@ Literature review of excerpts from a middle school language arts instructional u
 
 
 #### Key Findings:
-• New Demands in the English Language Arts Common Core State Standards Include o Reading  students are called upon to read and comprehend texts of increasing complexity, especially texts that are informational in nature (rather than fictional) o Writing  students are required to develop the ability to write a variety of text types and address different audiences and purposes, providing information to help readers better grasp a topic or concept and presenting arguments logically to defend interpretations or judgments o Speaking and Listening: students are required  Students are required to use oral language to build on others’ ideas, articulate their own ideas, and confirm their understandings through informal, collaborative group interactions as well as formal presentations o Language  Students are called to develop both a “firm control over the conventions of standard English” and an appreciation “that language is at least as much a matter of craft as of rules” • Effective instruction for ELLs to meet the new standards will require opportunities for students to engage with texts, peers, and teachers using language and literacy in all of its complexity. • For ELLS, literacies are best learned through participation in activities that both challenge and support participants, in what is conceptualized in sociocultural theory as apprenticeship. o These apprenticeships always takes place in social contexts, where relationships among participants are as important as the activities in which they are engaged. • Designed-in scaffolding is necessary for teachers to prepare lessons for diverse learners.  • The ways in which teachers design scaffolds are critical to ELL students’ success. Scaffolds are not readymade activities that automatically fit predetermined slots or types of students. Rather, they must be personalized in response to particular students and texts. 
+
+- New Demands in the English Language Arts Common Core State Standards Include
+    - Reading
+        - students are called upon to read and comprehend texts of increasing complexity, especially texts that are informational in nature (rather than fictional)
+    - Writing
+        - students are required to develop the ability to write a variety of text types and address different audiences and purposes, providing information to help readers better grasp a topic or concept and presenting arguments logically to defend interpretations or judgments
+    - Speaking and Listening: students are required
+        - Students are required to use oral language to build on others’ ideas, articulate their own ideas, and confirm their understandings through informal, collaborative group interactions as well as formal presentations
+    - Language
+        - Students are called to develop both a “firm control over the conventions of standard English” and an appreciation “that language is at least as much a matter of craft as of rules” 
+- Effective instruction for ELLs to meet the new standards will require opportunities for students to engage with texts, peers, and teachers using language and literacy in all of its complexity.
+- For ELLS, literacies are best learned through participation in activities that both challenge and support participants, in what is conceptualized in sociocultural theory as apprenticeship.
+    - These apprenticeships always takes place in social contexts, where relationships among participants are as important as the activities in which they are engaged.
+- Designed-in scaffolding is necessary for teachers to prepare lessons for diverse learners.  
+- The ways in which teachers design scaffolds are critical to ELL students’ success. Scaffolds are not readymade activities that automatically fit predetermined slots or types of students. Rather, they must be personalized in response to particular students and texts.
 
 
 #### Implications:
-• Effective instruction for ELLs to meet these new standards will require some key reconceptualizations on the part of teachers. These are: o Reconceptualization 1  Teachers must move away from a conceptualization of language acquisition as an individual process and toward a conceptualization of language acquisition as a process of apprenticeship that takes place in social contexts.  teachers have the responsibility for planning robust and flexible invitations for students to engage in apprenticeship with others through tasks that have multiple entry points o Reconceptualization 2  Teachers must move away from a conceptualization of pedagogical activities as “help” provided to students geared to “get the job done” and toward an appreciation for activites that scaffold students’ development and increasing autonomy • Scaffolding is a metaphor that refers to the “just right” kind of support that allows student knowledge to become generative, such that students can use it support new learning • Scaffolding is always responsive, predicated on observations of students’ level of maturation, and based on teachers’ knowledge of the assistance required to realize students’ potential. o Reconceptualization 3  Teachers must move away from the use of simple or simplified texts and toward engagement with complex, amplified texts. • Complex texts are not accessible on their own; they must be be amplified through processes of scaffolding • Students can focus on particular aspects of text complexity while being provided with support that “lightens the load” on other aspects. 
+
+- Effective instruction for ELLs to meet these new standards will require some key reconceptualizations on the part of teachers. These are:
+    - Reconceptualization 1
+        - Teachers must move away from a conceptualization of language acquisition as an individual process and toward a conceptualization of language acquisition as a process of apprenticeship that takes place in social contexts. 
+        - teachers have the responsibility for planning robust and flexible invitations for students to engage in apprenticeship with others through tasks that have multiple entry points
+    - Reconceptualization 2
+        - Teachers must move away from a conceptualization of pedagogical activities as “help” provided to students geared to “get the job done” and toward an appreciation for activites that scaffold students’ development and increasing autonomy 
+- Scaffolding is a metaphor that refers to the “just right” kind of support that allows student knowledge to become generative, such that students can use it support new learning
+- Scaffolding is always responsive, predicated on observations of students’ level of maturation, and based on teachers’ knowledge of the assistance required to realize students’ potential.
+    - Reconceptualization 3
+        - Teachers must move away from the use of simple or simplified texts and toward engagement with complex, amplified texts. 
+- Complex texts are not accessible on their own; they must be be amplified through processes of scaffolding
+- Students can focus on particular aspects of text complexity while being provided with support that “lightens the load” on other aspects.
 
 
 #### Limitations:
@@ -46,4 +72,3 @@ nan
 
 
 #### Compiled by: Jo Blankson
-

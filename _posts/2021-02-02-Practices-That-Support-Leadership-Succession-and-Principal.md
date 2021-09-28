@@ -34,7 +34,14 @@ Five Large k-12 Colorado school districts, defined as having over 5000 students 
 
 
 #### Key Findings:
-Succession practices of districts with high TELL survey results • Four themes emerged from this question: o the importance of stakeholder input o professional development focused on instructional o leadership o attention to transition o a focus on teacher-principal relationships. • School district administrators from these school districts were mindful to involve stakeholders in the hiring of principals, rather than focus solely on the needs of the district. • School district leaders stressed that stakeholders’ input, especially teachers’, must be valued and acted upon. Principals also conveyed their belief in their teachers and their teaching abilities.  Succession Practices of Districts with High Principal Retention • Many succession practices were similar to practices in the school districts with high TELL Survey results. Two additional themes emerged: o Leaders focused on individualized support o Leaders capitalized on unique features of their school community • School district leaders capitalized on the use of current district leaders, retired and/or current master principals as coaches and mentors. 
+Succession practices of districts with high TELL survey results • Four themes emerged from this question:
+- the importance of stakeholder input
+- professional development focused on instructional
+- leadership
+- attention to transition
+- a focus on teacher-principal relationships. • School district administrators from these school districts were mindful to involve stakeholders in the hiring of principals, rather than focus solely on the needs of the district. • School district leaders stressed that stakeholders’ input, especially teachers’, must be valued and acted upon. Principals also conveyed their belief in their teachers and their teaching abilities.  Succession Practices of Districts with High Principal Retention • Many succession practices were similar to practices in the school districts with high TELL Survey results. Two additional themes emerged:
+- Leaders focused on individualized support
+- Leaders capitalized on unique features of their school community • School district leaders capitalized on the use of current district leaders, retired and/or current master principals as coaches and mentors. 
 
 
 #### Implications:
@@ -46,4 +53,3 @@ Participants in this study were limited to the small number of participants in f
 
 
 #### Compiled by: Jo Blankson
-
