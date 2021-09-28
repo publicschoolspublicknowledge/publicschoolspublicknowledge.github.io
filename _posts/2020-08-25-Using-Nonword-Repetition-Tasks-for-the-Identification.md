@@ -2,13 +2,16 @@
 layout: post
 title: Using Nonword Repetition Tasks for the Identification of Language Impairment in Spanish-English Speaking Children- Does the Language of Assessment Matter?
 date: 2020-08-25
+comments: true
 categories: Blog
-tags: Bilingual Students, Spanish-speaking Students, English-speaking students, Screening for Language Impairment, Typical Language Development, Nonword Repetition Task
+tags: 'Bilingual Students', 'Spanish-speaking Students', 'English-speaking students', 'Screening for Language Impairment', 'Typical Language Development', 'Nonword Repetition Task'
 ---
 
 ## Author(s): Gutierrez-Clellen, Vera F and Gabriela Simon-Cereijido
 
 ### Published: February 2010 in Learning Disabilities Research & Practice 
+
+#### [URL to article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3374488/)
 
 ### Research Focus Area: English Language Learners: instructional strategies, assessments, developing academic language
 
@@ -39,4 +42,6 @@ Due to the statistical analysis using a positive likelihood ratio, the researche
 #### Limitations:
 However, neither the English or Spanish non-word repetition task can accurately rule out the presence of language impairment, because students with typical language development may have varying skills in one language compared to the other. Due to the variations in language skill and vocabulary across the board of both students with typical language development and those with language impairments, the nonword repetition task should only be used as a screening measure alongside other clinical assessments in order to accurately place bilingual students. 
 
+
+#### Compiled by: Samhitha Krishnan
 

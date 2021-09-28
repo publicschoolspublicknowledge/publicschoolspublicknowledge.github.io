@@ -30,9 +30,9 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-google_analytics: "UA-124610318-1"
-#disqus:
-#  shortname:
+#google_analytics: "UA-124610318-1"
+disqus:
+  shortname: publicschoolspublicknowledge-github-io
 twitter:
   username: # site's Twitter username, e.g. "mmistakes"
 
@@ -52,9 +52,6 @@ feed:
 
 # Search
 search_full_content: true # can have performance implications for large sites
-
-# Google Analytics
-#google_analytics: G-3SYF1FE877
 
 # Taxonomy pages
 # category_archive_path: "/categories/#"

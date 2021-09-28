@@ -2,13 +2,16 @@
 layout: post
 title: School Factors That Contribute to the Underachievement of Students of Color and What Culturally Competent School Leaders Can Do
 date: 2020-05-26
+comments: true
 categories: Blog
-tags: Socioeconomic Influences, Low Income Groups, Educational Environment, Underachievement, Academic Achievement, Minority Group Children, Cultural Pluralism, Leadership Responsibility, Culturally Relevant Education, Racial Differences, African American Students, White Students, Hispanic American Students, Asian American Students, Racial Bias, Teacher Expectations of Students
+tags: 'Socioeconomic Influences', 'Low Income Groups', 'Educational Environment', 'Underachievement', 'Academic Achievement', 'Minority Group Children', 'Cultural Pluralism', 'Leadership Responsibility', 'Culturally Relevant Education', 'Racial Differences', 'African American Students', 'White Students', 'Hispanic American Students', 'Asian American Students', 'Racial Bias', 'Teacher Expectations of Students'
 ---
 
 ## Author(s): Smith, Camille A.
 
 ### Published: January, 2005 in Educational Leadership and Administration: Teaching and Program Development
+
+#### [URL to article](https://files.eric.ed.gov/fulltext/EJ795072.pdf)
 
 ### Research Focus Area: Asset-based best practices for serving Black and Latinx teens
 
@@ -39,4 +42,6 @@ The study was set in California, as the academic landscape for African American,
 #### Limitations:
 A significant limitation of the study is the assumption that all African American students are economically disadvantaged. There are cases where culturally diverse students from good socioeconomic backgrounds outperform other advantaged children in school. Moreover, California is not necessarily the only state that faces underachievement in students who are racially and economically disadvantaged. A more inclusive and comprehensive study will create a better understanding of the issue as it will have a larger scope of the sample size. 
 
+
+#### Compiled by: Haneen Al Dabbagh
 

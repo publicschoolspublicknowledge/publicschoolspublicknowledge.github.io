@@ -2,13 +2,16 @@
 layout: post
 title: Student Independent Investigations for Authentic Learning
 date: 2020-05-21
+comments: true
 categories: Blog
-tags: gifted education program development, instructional strategies, independent study
+tags: 'gifted education program development', 'instructional strategies', 'independent study'
 ---
 
 ## Author(s): Westberg Karen L & Jann H. Leppien
 
 ### Published: January, 2018 in Gifted Child Today: SAGE Journals
+
+#### [URL to article](https://journals.sagepub.com/doi/pdf/10.1177/1076217517735354)
 
 ### Research Focus Area: Opportunities for students to create authentic work for real audiences beyond the teacher
 
@@ -39,4 +42,6 @@ The authors concluded that progression through these stages provided students wi
 #### Limitations:
 The current secondary research conclusions rely on existing literature related to advanced learning opportunities provided to students to help them develop novel thinking and inquiry skills. Further primary research and data collection is needed to add value to the given conclusions and numerically illustrate the effectiveness of giving students the opportunity  to pursue authentic learning through interest-based independent studies. 
 
+
+#### Compiled by: Haneen Al Dabbagh
 

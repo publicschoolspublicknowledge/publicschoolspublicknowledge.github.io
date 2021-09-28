@@ -2,13 +2,16 @@
 layout: post
 title: Anticipating a Second Wave of Standards-Based Grading Implementation and Understanding the Potential Barriers- Perceptions of High School Principals
 date: 2021-01-25
+comments: true
 categories: Blog
-tags: standards based grading, assessments, change, teachers, principals, leadership, grading reform
+tags: 'standards based grading', 'assessments', 'change', 'teachers', 'principals', 'leadership', 'grading reform'
 ---
 
 ## Author(s): Townsley, Matt, Tom Buckmiller & Robyn Cooper
 
 ### Published: October 2019 in National Association of Secondary School Principals Bulletin
+
+#### [URL to article](http://eds.b.ebscohost.com.proxy.uchicago.edu/eds/detail/detail?vid=0&sid=c3409e98-b2a3-4ffa-94d8-69dce5ce870c%40sessionmgr103&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=EJ1235783&db=eric)
 
 ### Research Focus Area: Strategic planning strategies for school leaders
 
@@ -39,4 +42,6 @@ Literature Review, Survey
 #### Limitations:
 • Participants were limited to high school principals in one state. • District superintendents, curriculum directors, and other central office decision makers were not included in this study. • The open-ended question regarding barriers, although qualitative in nature, did not allow for follow-up questions or clarification.
 
+
+#### Compiled by: Jo
 

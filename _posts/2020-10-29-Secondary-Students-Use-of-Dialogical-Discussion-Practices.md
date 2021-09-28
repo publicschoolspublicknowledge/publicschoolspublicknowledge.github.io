@@ -2,13 +2,16 @@
 layout: post
 title: Secondary Students Use of Dialogical Discussion Practices to Foster Greater Interaction
 date: 2020-10-29
+comments: true
 categories: Blog
-tags: Students’ questioning; Interactive talk; Online learning; Group discussions; Secondary education, dialogic
+tags: 'Students’ questioning', 'Interactive talk', 'Online learning', 'Group discussions', 'Secondary education', 'dialogic'
 ---
 
 ## Author(s): Maree J Davies, Kane Meissel
 
 ### Published: March 2018 in New Zealand Journal of Educational Studies
+
+#### [URL to article](http://eds.a.ebscohost.com.proxy.uchicago.edu/eds/detail/detail?vid=1&sid=487fcfca-9b99-476a-95ed-0534b988414e%40sessionmgr4006&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=132044496&db=eue)
 
 ### Research Focus Area: Strategies for using questioning and discussion techniques to deepen student understanding
 
@@ -39,4 +42,6 @@ Intervention
 #### Limitations:
 • the study was asynchronous only. a further  study could examine the use of synchronous online group discussions by students.
 
+
+#### Compiled by: Jo Blankson
 

@@ -2,13 +2,16 @@
 layout: post
 title: Culturally Responsive Mathematics Teaching- A Research Synthesis
 date: 2020-10-30
+comments: true
 categories: Blog
-tags: Culture, Culturally Responsive Teaching, Mathematics, Social Justice, Culturally and Linguistically Diverse Learners, CRMT, CLD, Diversity, Race, Pedagogy, Equity, Inclusivity, Identity, Language, Instructional Engagement, Collaboration, Critical Reflection
+tags: 'Culture', 'Culturally Responsive Teaching', 'Mathematics', 'Social Justice', 'Culturally and Linguistically Diverse Learners', 'CRMT', 'CLD', 'Diversity', 'Race', 'Pedagogy', 'Equity', 'Inclusivity', 'Identity', 'Language', 'Instructional Engagement', 'Collaboration', 'Critical Reflection'
 ---
 
 ## Author(s): Naheed A. Abdulrahim, Michael J. Orosco,
 
 ### Published: April 2019 in The Urban Review
+
+#### [URL to article](http://eds.a.ebscohost.com.proxy.uchicago.edu/eds/detail/detail?vid=3&sid=81563356-a33e-4d90-ac1a-7da0ceb5a5d0%40sessionmgr4007&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=edssjs.13FE0CB6&db=edssjs)
 
 ### Research Focus Area: Asset-based best practices for serving Black and Latinx teens
 
@@ -39,4 +42,6 @@ To support a more equitable educational environment, policymakers, teacher educa
 #### Limitations:
  relevant studies may have been missed from the review as a hand search of journal articles was not conducted.  although this synthesis includes several quantitative and mixed methods studies, it does not report quantitative findings which may have provided further insight into the effects of CRMT on various indicators of student achievement  This review excluded unpublished studies, which may have contained rich description on the topic. 
 
+
+#### Compiled by: jo
 

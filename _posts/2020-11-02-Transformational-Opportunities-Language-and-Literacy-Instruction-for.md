@@ -2,13 +2,16 @@
 layout: post
 title: Transformational Opportunities- Language and Literacy Instruction for English Language Learners in the Common Core Era in the United States
 date: 2020-11-02
+comments: true
 categories: Blog
-tags: Scaffolding, Common Core, English Language Learners, English Language Arts Standards, Minority Students, Second Language Acquisition, Apprenticeship, Diverse Groups of Students
+tags: 'Scaffolding', 'Common Core', 'English Language Learners', 'English Language Arts Standards', 'Minority Students', 'Second Language Acquisition', 'Apprenticeship', 'Diverse Groups of Students'
 ---
 
 ## Author(s): Amanda K Kibler, Aída Walqui, George C Bunch
 
 ### Published: March 2015 in TESOL Journal
+
+#### [URL to article](http://eds.a.ebscohost.com.proxy.uchicago.edu/eds/pdfviewer/pdfviewer?vid=3&sid=ecec68df-1b4c-4fd9-a993-58efd39c577c%40sessionmgr4008)
 
 ### Research Focus Area: English Language Learners: instructional strategies, assessments, developing academic language
 
@@ -39,4 +42,6 @@ Effective instruction for ELLs to meet these new standards will require some key
 #### Limitations:
 -
 
+
+#### Compiled by: Jo
 

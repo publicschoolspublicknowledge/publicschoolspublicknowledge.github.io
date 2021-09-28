@@ -2,13 +2,16 @@
 layout: post
 title: Transformational Assessment- A Simplified Model of Strategic Planning
 date: 2021-02-02
+comments: true
 categories: Blog
-tags: Strategic Planning, Transformational Assessment, School Reform, Educational Leadership, Change
+tags: 'Strategic Planning', 'Transformational Assessment', 'School Reform', 'Educational Leadership', 'Change'
 ---
 
 ## Author(s): Bardwell, Rebecca
 
 ### Published: Summer 2008 in AASA Journal of Scholarship & Practice
+
+#### [URL to article](https://www.aasa.org/uploadedFiles/Publications/Journals/AASA_Journal_of_Scholarship_and_Practice/Summer08FINAL093008.pdf)
 
 ### Research Focus Area: Strategic planning strategies for school leaders
 
@@ -39,4 +42,6 @@ The Transformational Assessment model has 5 steps 1. Visioning a. Stakeholders a
 #### Limitations:
 -
 
+
+#### Compiled by: Jo Blankson
 

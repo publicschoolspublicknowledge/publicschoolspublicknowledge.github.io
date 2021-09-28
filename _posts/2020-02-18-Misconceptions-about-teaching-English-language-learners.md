@@ -2,13 +2,16 @@
 layout: post
 title: Misconceptions about teaching English-language learners
 date: 2020-02-18
+comments: true
 categories: Blog
-tags: English Language Learners, Second Language Learning, Misconceptions, Learning Processes, Teaching Methods, Knowledge Base for Teaching, Academic Discourse, English (Second Language), Academic Achievement, Student Needs
+tags: 'English Language Learners', 'Second Language Learning', 'Misconceptions', 'Learning Processes', 'Teaching Methods', 'Knowledge Base for Teaching', 'Academic Discourse', 'English (Second Language)', 'Academic Achievement', 'Student Needs'
 ---
 
 ## Author(s): Harper, Candace Ester de Jong
 
 ### Published: 2004-10-15 in Journal of Adolescent and Adult Literacy
+
+#### [URL to article](http://www.schtools.com/membersnew/documents/MSSAA/14-15LLP-SEI_Harper_and_de_Jong_Misconceptions_about_Teaching_ELLs-1(1).pdf)
 
 ### Research Focus Area: English Language Learners: instructional strategies, assessments, developing academic language
 
@@ -39,4 +42,6 @@ Teachers must critically analyze the role of language in teaching and learning b
 #### Limitations:
 This study is formatted primarily as a literature review drawing on other studies that have modeled the solutions to these strategies. Further research be able to study the effects of these models in classroom settings in order to create effective implementation and evaluation. 
 
+
+#### Compiled by: Samhitha Krishnan
 

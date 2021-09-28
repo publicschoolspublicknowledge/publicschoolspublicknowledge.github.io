@@ -2,13 +2,16 @@
 layout: post
 title: Kufundisha- An Innovative Teaching Approach for Student Engagement and Experiential Learning
 date: 2020-06-01
+comments: true
 categories: Blog
-tags: Kufundisha, Culturally Relevant Teaching, African Centered, Black Studies Pedagogy.
+tags: 'Kufundisha', 'Culturally Relevant Teaching', 'African Centered', 'Black Studies Pedagogy.'
 ---
 
 ## Author(s): Hackett, Cedric D.
 
 ### Published: October, 2016 in Journal of Pan African Studies
+
+#### [URL to article](http://eds.a.ebscohost.com.proxy.uchicago.edu/eds/pdfviewer/pdfviewer?vid=1&sid=8109cb1a-b2f9-4719-bc57-910434a0edd8%40sdc-v-sessmgr02)
 
 ### Research Focus Area: Asset-based best practices for serving Black and Latinx teens
 
@@ -39,4 +42,6 @@ When studying how to increase cultural awareness among the student population, t
 #### Limitations:
 The study involves only one institution and one particular method of instruction, Kufundisha. Therefore, the results are valid for Kufundisha, but other culturally distinct methods would each require their own evaluation. Further study should also include a larger sample to ensure a more representative study. 
 
+
+#### Compiled by: Haneen Al Dabbagh
 

@@ -2,13 +2,16 @@
 layout: post
 title: Building Bridges From Classrooms to Networked Publics- Helping Students Write for the Audience They Want
 date: 2021-02-08
+comments: true
 categories: Blog
-tags: networked publics, creative writing, writing assessment, fanfiction, literacy
+tags: 'networked publics', 'creative writing', 'writing assessment', 'fanfiction', 'literacy'
 ---
 
 ## Author(s): Lammers, Jayne C., Judith H. Van Alstyne
 
 ### Published: November 2018 in Journal of Adolescent and Adult Literacy
+
+#### [URL to article](https://ila-onlinelibrary-wiley-com.proxy.uchicago.edu/doi/pdfdirect/10.1002/jaal.933)
 
 ### Research Focus Area: Opportunities for students to create authentic work for real audiences beyond the teacher
 
@@ -39,4 +42,6 @@ The researchers recommend that literacy educators find opportunities to incorpor
 #### Limitations:
 This study was conducted over a short amount of time and all participants were self-selected.
 
+
+#### Compiled by: Jo
 

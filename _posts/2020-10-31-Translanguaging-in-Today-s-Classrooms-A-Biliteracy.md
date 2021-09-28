@@ -2,13 +2,16 @@
 layout: post
 title: Translanguaging in Today’s Classrooms- A Biliteracy Lens
 date: 2020-10-31
+comments: true
 categories: Blog
-tags: biliteracy, multilingualism, bilingual, literacy, language, English as a second language, immigration, translanguaging
+tags: 'biliteracy', 'multilingualism', 'bilingual', 'literacy', 'language', 'English as a second language', 'immigration', 'translanguaging'
 ---
 
 ## Author(s): Nancy Hornberger, Holly Link
 
 ### Published: 2012 in Theory Into Practice
+
+#### [URL to article](http://eds.a.ebscohost.com.proxy.uchicago.edu/eds/detail/detail?vid=2&sid=a8ca6412-88b8-4e40-bf13-57eaf186ab93%40sdc-v-sessmgr01&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=edsjsr.23362829&db=edsjsr)
 
 ### Research Focus Area: English Language Learners: instructional strategies, assessments, developing academic language
 
@@ -39,4 +42,6 @@ Translaguaging: • Translanguaging refers broadly to practices in which bilingu
 #### Limitations:
 -
 
+
+#### Compiled by: Jo
 

@@ -2,13 +2,16 @@
 layout: post
 title: The Proficiency, Instructional and Affective Domains of Long Term English Language Learners- A Review of the Research
 date: 2020-05-30
+comments: true
 categories: Blog
-tags: English language learners, long-term English language learners, bilingualism, language proficiency
+tags: 'English language learners', 'long-term English language learners', 'bilingualism', 'language proficiency'
 ---
 
 ## Author(s): Artigliere, Marcus
 
 ### Published: May 2019 in The Electronic Journal for English as a Second Language
+
+#### [URL to article](http://eds.b.ebscohost.com.proxy.uchicago.edu/eds/pdfviewer/pdfviewer?vid=1&sid=574bf044-a9cc-4a61-a108-c28754e37c1f%40pdc-v-sessmgr03)
 
 ### Research Focus Area: English Language Learners: instructional strategies, assessments, developing academic language
 
@@ -39,4 +42,6 @@ Instruction for LTELLs should be informed by the following principles: • The p
 #### Limitations:
 The literature review is extensive, but a natural limitation is that the study only focuses on prior literature with no collection of primary data on the success of these instructional models in classroom settings. An intervention approach could provide better evaluation to realize the effectiveness of the suggested interventions and approaches.  
 
+
+#### Compiled by: Haneen Al Dabbagh
 

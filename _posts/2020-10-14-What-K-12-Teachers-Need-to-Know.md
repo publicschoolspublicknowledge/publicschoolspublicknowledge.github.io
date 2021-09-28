@@ -2,13 +2,16 @@
 layout: post
 title: What K-12 Teachers Need to Know About Teaching Gifted Black Girls Battling Perfectionism and Stereotype Threat
 date: 2020-10-14
+comments: true
 categories: Blog
-tags: gifted, black girls, stereotype threat, perfectionism, stress, race, gender, academic performance, advanced placement, strong black woman
+tags: 'gifted', 'black girls', 'stereotype threat', 'perfectionism', 'stress', 'race', 'gender', 'academic performance', 'advanced placement', 'strong black woman'
 ---
 
 ## Author(s): Brittany N. Anderson, PhD
 
 ### Published: July 2018 in Gifted Child Today
+
+#### [URL to article](http://eds.a.ebscohost.com.proxy.uchicago.edu/eds/pdfviewer/pdfviewer?vid=2&sid=2356f65c-0c14-4191-93f3-2e93250288a9%40sdc-v-sessmgr03)
 
 ### Research Focus Area: Asset-based best practices for serving Black and Latinx teens
 
@@ -39,4 +42,6 @@ the classroom should be a safe psychological space for gifted Black girls to fee
 #### Limitations:
 nan
 
+
+#### Compiled by: Jo
 

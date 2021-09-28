@@ -2,13 +2,16 @@
 layout: post
 title: The Promise and Possibilities of Community Conversations- Expanding Opportunities for People With Disabilities
 date: 2020-03-31
+comments: true
 categories: Blog
-tags: community conversations, students with disabilities, transitioning out of high school 
+tags: 'community conversations', 'students with disabilities', 'transitioning out of high school'
 ---
 
 ## Author(s): Carter, Erik W and Jennifer L. Bumble
 
 ### Published: 2018 in Journal of Disability Policy Studies
+
+#### [URL to article](https://journals-sagepub-com.proxy.uchicago.edu/doi/pdf/10.1177/1044207317739408)
 
 ### Research Focus Area: Asset-based best practices for serving students with disabilities/students in special ed
 
@@ -39,4 +42,6 @@ Community & Schools
 #### Limitations:
 There are three limitations readers should consider regarding this paper. First, community conversations are not the only way to approach engaging with community-level change efforts. Community conversations are one approach, which should be implemented with great consideration for local context and should be implemented strategically. For example, some of the knowledge generated at a community conversation event will be ineffective or stand in conflict with practices and hard expectations. Second, community conversations may be most effective at spurring change. However, this tool may be insufficient for sustaining ongoing movements. Therefore, the process of change should be considered before utilizing community conversations. Third, while this approach has been shown to be effective, it is not entirely clear which elements or mechanism of this approach are effective. Therefore, communities should not see this approach as a rigid manual but rather a blueprint that can be adapted based on community context and expertise. 
 
+
+#### Compiled by: Samantha Guz
 

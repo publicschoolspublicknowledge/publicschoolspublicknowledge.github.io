@@ -2,13 +2,16 @@
 layout: post
 title: Urban School Principals and Their Role as Multicultural Leaders
 date: 2020-03-09
+comments: true
 categories: Blog
-tags: multicultural leadership; principal preparation; diversity; school administration
+tags: 'multicultural leadership', 'principal preparation', 'diversity', 'school administration'
 ---
 
 ## Author(s): Gardiner, Mary E., and Ernestine K. Enomoto.
 
 ### Published: 2006 in Urban Education
+
+#### [URL to article](https://journals.sagepub.com/doi/pdf/10.1177/0042085906294504?casa_token=GZkAtC62xBAAAAAA:JTxGIs9U22E2rwlIYYSXi3q3Uc8NI7PsUXByv4nurUDIjGIZ9Mq7k3xrgS9qtomIns81L_xJf0LomA)
 
 ### Research Focus Area: Strategic planning strategies for school leaders
 
@@ -39,4 +42,6 @@ Evaluation  of  teachers (and  principals)  could  include  multicultural  profi
 #### Limitations:
 Limited sample size, all six principals in the study were identified as Caucasian.
 
+
+#### Compiled by: Karlyn Gorski
 

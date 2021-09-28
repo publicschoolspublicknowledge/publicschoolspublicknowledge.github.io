@@ -2,13 +2,16 @@
 layout: post
 title: Assessment of English Language Learners with Learning Disabilities 
 date: 2020-05-20
+comments: true
 categories: Blog
-tags: English language learners, Learning disabilities, Special education, Special needs students, Native languages, Public schools, Student diversity, Language proficiency, assessment.
+tags: 'English language learners', 'Learning disabilities', 'Special education', 'Special needs students', 'Native languages', 'Public schools', 'Student diversity', 'Language proficiency', 'assessment.'
 ---
 
 ## Author(s): Chu, Szu-Yin and Sobedia Flores 
 
 ### Published: September, 2011 in The Clearing House: A Journal of Educational Strategies, Issues and Ideas
+
+#### [URL to article](https://doi.org/10.1080/00098655.2011.590550)
 
 ### Research Focus Area: English Language Learners: instructional strategies, assessments, developing academic language
 
@@ -39,4 +42,6 @@ The findings imply the following solutions to increase the accuracy of ELL asses
 #### Limitations:
 This qualitative secondary research is limited to a review of prior literature and relies primarily on secondary data. Utilizing first-hand knowledge, through primary data collection, could prove useful in modeling targeted solutions that are more effective and implementable. Further, the study does not provide a quantitative evaluation of the success of accommodations in assessment. Thus, a more in-depth, number-based evaluation is required to realize the effectiveness of the suggested interventions and approaches. 
 
+
+#### Compiled by: Haneen Al Dabbagh
 
