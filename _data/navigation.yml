@@ -1,0 +1,19 @@
+# Sample site navigation bar links
+
+- title: Home
+  url: /
+
+- title: About PSPK
+  url: /top/about/
+
+- title: Articles
+  url: /top/articles/
+
+#- title: Code
+#  url: htop/ttps://www.github.com/bakerwho
+
+- title: Search
+  url: /top/search/
+
+# - title: External Page
+#   url: https://the-page.com/you-want-to-link-to.html
