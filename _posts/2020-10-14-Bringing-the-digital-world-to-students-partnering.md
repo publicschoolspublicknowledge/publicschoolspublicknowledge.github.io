@@ -4,7 +4,9 @@ title: Bringing the digital world to students- partnering with the university co
 date: 2020-10-14
 comments: true
 categories: Blog
-tags: 'experiential learning', 'social media', 'communications', 'professional world', 'mentoring', 'university'
+
+tags: [experiential-learning, social-media, communications, professional-world, mentoring, university]
+
 ---
 
 ## Author(s): Courtney C. Childers, Abbey B. Levenshus

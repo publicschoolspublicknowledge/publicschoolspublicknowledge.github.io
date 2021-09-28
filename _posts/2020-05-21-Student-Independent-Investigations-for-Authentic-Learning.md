@@ -4,7 +4,9 @@ title: Student Independent Investigations for Authentic Learning
 date: 2020-05-21
 comments: true
 categories: Blog
-tags: 'gifted education program development', 'instructional strategies', 'independent study'
+
+tags: [gifted-education-program-development, instructional-strategies, independent-study]
+
 ---
 
 ## Author(s): Westberg Karen L & Jann H. Leppien

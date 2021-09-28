@@ -4,7 +4,9 @@ title: Teaching English Language Learners in the Content Areas
 date: 2021-02-09
 comments: true
 categories: Blog
-tags: 'English language learners', 'literacy', 'instruction', 'content area', 'mainstream teachers.'
+
+tags: [English-language-learners, literacy, instruction, content-area, mainstream-teachers.]
+
 ---
 
 ## Author(s): Janzey, Joy

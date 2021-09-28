@@ -4,7 +4,9 @@ title: Using Mind Maps to Make Student Questioning Effective- Learning Outcomes 
 date: 2021-01-28
 comments: true
 categories: Blog
-tags: 'Teacher guidance', 'Student questioning', 'Core curriculum', 'Mind-map assessment', 'Inquiry-based learning', 'mind-mapping'
+
+tags: [Teacher-guidance, Student-questioning, Core-curriculum, Mind-map-assessment, Inquiry-based-learning, mind-mapping]
+
 ---
 
 ## Author(s): Stokhof, Harry, Bregje de Vries, Theo Bastiaens & Rob Martens

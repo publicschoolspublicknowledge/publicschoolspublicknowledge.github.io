@@ -4,7 +4,9 @@ title: Culturally Responsive Practices in Schools
 date: 2021-02-08
 comments: true
 categories: Blog
-tags: 'disproportionality', 'racial diversity', 'ethnic representation', 'special education', 'general education', 'students of color', 'bilingual', 'poverty', 'racial inequality'
+
+tags: [disproportionality, racial-diversity, ethnic-representation, special-education, general-education, students-of-color, bilingual, poverty, racial-inequality]
+
 ---
 
 ## Author(s): Fiedler, Craig R., Bert Chiang, Barbara Van Haren, Jack Jorgensen, Sara Halberg, Lynn Boreson

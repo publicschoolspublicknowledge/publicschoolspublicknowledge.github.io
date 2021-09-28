@@ -4,7 +4,9 @@ title: Secondary Students Use of Dialogical Discussion Practices to Foster Great
 date: 2020-10-29
 comments: true
 categories: Blog
-tags: 'Students’ questioning', 'Interactive talk', 'Online learning', 'Group discussions', 'Secondary education', 'dialogic'
+
+tags: [Students’-questioning, Interactive-talk, Online-learning, Group-discussions, Secondary-education, dialogic]
+
 ---
 
 ## Author(s): Maree J Davies, Kane Meissel

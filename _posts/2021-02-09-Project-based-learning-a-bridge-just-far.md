@@ -4,7 +4,9 @@ title: Project based learning- a bridge just far enough
 date: 2021-02-09
 comments: true
 categories: Blog
-tags: 'project based learning', 'Collaboration', 'Problem Solving', 'Group Work', 'High-Performance Teams', ''
+
+tags: [project-based-learning, Collaboration, Problem-Solving, Group-Work, High-Performance-Teams, ]
+
 ---
 
 ## Author(s): Markham, Thom

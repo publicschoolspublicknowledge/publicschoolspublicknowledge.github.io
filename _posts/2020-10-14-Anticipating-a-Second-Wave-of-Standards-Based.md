@@ -4,7 +4,9 @@ title: Anticipating a Second Wave of Standards-Based Grading Implementation and 
 date: 2020-10-14
 comments: true
 categories: Blog
-tags: 'standards based grading', 'assessments', 'change', 'teachers', 'principals', 'leadership', 'grading reform'
+
+tags: [standards-based-grading, assessments, change, teachers, principals, leadership, grading-reform]
+
 ---
 
 ## Author(s): Matt Townsley; Tom Buckmiller; Robyn Cooper

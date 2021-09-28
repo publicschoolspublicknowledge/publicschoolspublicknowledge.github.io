@@ -4,7 +4,9 @@ title: Academic Performance, Career Potential, Creativity, and Job Performance- 
 date: 2021-01-28
 comments: true
 categories: Blog
-tags: 'Testing', 'Job performance', 'Knowledge', 'Career Potential', 'Academic Performance', 'Graduate School', 'g', 'Cognitive Ability'
+
+tags: [Testing, Job-performance, Knowledge, Career-Potential, Academic-Performance, Graduate-School, g, Cognitive-Ability]
+
 ---
 
 ## Author(s): Kuncel, Nathan R., Sarah A Hezlett & Deniz S. Ones

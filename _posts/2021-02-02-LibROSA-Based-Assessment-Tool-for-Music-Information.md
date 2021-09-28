@@ -4,7 +4,9 @@ title: LibROSA Based Assessment Tool for Music Information Retrieval Systems
 date: 2021-02-02
 comments: true
 categories: Blog
-tags: 'music technology', 'MIR', 'assessment', 'instruments'
+
+tags: [music-technology, MIR, assessment, instruments]
+
 ---
 
 ## Author(s): Raguraman, Preeth, Mohan R, Midhula Vijayan

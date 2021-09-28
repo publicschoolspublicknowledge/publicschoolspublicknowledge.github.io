@@ -4,7 +4,9 @@ title: School Factors That Contribute to the Underachievement of Students of Col
 date: 2020-05-26
 comments: true
 categories: Blog
-tags: 'Socioeconomic Influences', 'Low Income Groups', 'Educational Environment', 'Underachievement', 'Academic Achievement', 'Minority Group Children', 'Cultural Pluralism', 'Leadership Responsibility', 'Culturally Relevant Education', 'Racial Differences', 'African American Students', 'White Students', 'Hispanic American Students', 'Asian American Students', 'Racial Bias', 'Teacher Expectations of Students'
+
+tags: [Socioeconomic-Influences, Low-Income-Groups, Educational-Environment, Underachievement, Academic-Achievement, Minority-Group-Children, Cultural-Pluralism, Leadership-Responsibility, Culturally-Relevant-Education, Racial-Differences, African-American-Students, White-Students, Hispanic-American-Students, Asian-American-Students, Racial-Bias, Teacher-Expectations-of-Students]
+
 ---
 
 ## Author(s): Smith, Camille A.

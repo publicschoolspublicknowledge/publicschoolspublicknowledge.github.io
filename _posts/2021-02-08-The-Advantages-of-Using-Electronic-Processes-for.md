@@ -4,7 +4,9 @@ title: The Advantages of Using Electronic Processes for Commenting on and Exchan
 date: 2021-02-08
 comments: true
 categories: Blog
-tags: 'revision', 'technology', 'writing', 'students with learning disabilities', 'ADD', 'ADHD', 'online learning', 'concentration', 'dyslexia', 'text-to-speech'
+
+tags: [revision, technology, writing, students-with-learning-disabilities, ADD, ADHD, online-learning, concentration, dyslexia, text-to-speech]
+
 ---
 
 ## Author(s): Carmichael, Stephen, Peg Alden

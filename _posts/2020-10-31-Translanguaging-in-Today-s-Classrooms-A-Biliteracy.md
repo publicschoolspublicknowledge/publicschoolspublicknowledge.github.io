@@ -4,7 +4,9 @@ title: Translanguaging in Today’s Classrooms- A Biliteracy Lens
 date: 2020-10-31
 comments: true
 categories: Blog
-tags: 'biliteracy', 'multilingualism', 'bilingual', 'literacy', 'language', 'English as a second language', 'immigration', 'translanguaging'
+
+tags: [biliteracy, multilingualism, bilingual, literacy, language, English-as-a-second-language, immigration, translanguaging]
+
 ---
 
 ## Author(s): Nancy Hornberger, Holly Link

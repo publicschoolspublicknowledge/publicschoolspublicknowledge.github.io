@@ -4,7 +4,9 @@ title: Investigating the Power of Authentically Caring Student-Teacher Relations
 date: 2021-02-09
 comments: true
 categories: Blog
-tags: 'Latinx students', 'emotional and social resources', 'bilingual', 'multilingual', 'college access', 'inquity', 'Student-Teacher Relationships'
+
+tags: [Latinx-students, emotional-and-social-resources, bilingual, multilingual, college-access, inquity, Student-Teacher-Relationships]
+
 ---
 
 ## Author(s): Newcomer, Sarah N.

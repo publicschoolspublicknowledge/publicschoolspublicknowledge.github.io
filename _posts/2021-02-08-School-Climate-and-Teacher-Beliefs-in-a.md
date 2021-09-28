@@ -4,7 +4,9 @@ title: School Climate and Teacher Beliefs in a School Effectively Serving Poor S
 date: 2021-02-08
 comments: true
 categories: Blog
-tags: 'School effectiveness', 'minority students', 'school climate', 'teacher expectations', 'diverse student populations', 'exemplary teachers', 'group instruction', 'ability groups', 'inequality'
+
+tags: [School-effectiveness, minority-students, school-climate, teacher-expectations, diverse-student-populations, exemplary-teachers, group-instruction, ability-groups, inequality]
+
 ---
 
 ## Author(s): Brown, Kimberly E., and Frederic J. Medway

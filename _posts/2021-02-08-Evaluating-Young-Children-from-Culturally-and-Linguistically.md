@@ -4,7 +4,9 @@ title: Evaluating Young Children from Culturally and Linguistically Diverse Back
 date: 2021-02-08
 comments: true
 categories: Blog
-tags: 'Culturally and Linguistically diverse learners', 'learning disabilities', 'disability assessment', 'play based assessment', 'cultural bias', 'translators and interpreters', 'cultural mediators', 'early intervention', 'early childhood special education'
+
+tags: [Culturally-and-Linguistically-diverse-learners, learning-disabilities, disability-assessment, play-based-assessment, cultural-bias, translators-and-interpreters, cultural-mediators, early-intervention, early-childhood-special-education]
+
 ---
 
 ## Author(s): Banerjee, Rashida, Mark Guiberson

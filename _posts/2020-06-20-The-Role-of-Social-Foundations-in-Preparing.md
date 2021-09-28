@@ -4,7 +4,9 @@ title: The Role of Social Foundations in Preparing Teachers for Culturally Relev
 date: 2020-06-20
 comments: true
 categories: Blog
-tags: 'Teaching Methods', 'Educational Sociology', 'Preservice Teacher Education', 'Teacher Attitudes', 'Foundations of Education', 'Teacher Responsibility', 'Teacher Influence', 'Equal Education', 'Disadvantaged Youth', 'Cultural Pluralism', 'Educational History', 'Racial Bias', 'Social Bias', 'Socioeconomic Status'
+
+tags: [Teaching-Methods, Educational-Sociology, Preservice-Teacher-Education, Teacher-Attitudes, Foundations-of-Education, Teacher-Responsibility, Teacher-Influence, Equal-Education, Disadvantaged-Youth, Cultural-Pluralism, Educational-History, Racial-Bias, Social-Bias, Socioeconomic-Status]
+
 ---
 
 ## Author(s):  Ryan, Ann Marie

@@ -4,7 +4,9 @@ title: All Together Now- Internal Coherence Framework Supports Instructional Lea
 date: 2021-01-28
 comments: true
 categories: Blog
-tags: 'instructional leadership', 'principals', 'professional development', 'collective efficacy', 'student achievement', 'internal coherence'
+
+tags: [instructional-leadership, principals, professional-development, collective-efficacy, student-achievement, internal-coherence]
+
 ---
 
 ## Author(s):  Stoisch, Elizabeth Leisy, Michelle L. Forman, and Candice Bocala

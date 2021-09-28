@@ -4,7 +4,9 @@ title: Learning to Love the Questions- How Essential Questions Promote Creativit
 date: 2021-02-09
 comments: true
 categories: Blog
-tags: 'inquiry-based learning', 'questions', 'essential questions', 'dialogue', 'problem-based literacy'
+
+tags: [inquiry-based-learning, questions, essential-questions, dialogue, problem-based-literacy]
+
 ---
 
 ## Author(s): Wilhelm, Jefrey D.

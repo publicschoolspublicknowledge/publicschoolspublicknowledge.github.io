@@ -4,7 +4,9 @@ title: Preparation, Practice, and Performance- An Empirical Examination of the I
 date: 2021-02-02
 comments: true
 categories: Blog
-tags: 'Achievement gap', 'standards-based practices', 'No child left behind', 'math education reform', 'science education reform', 'pedagogy'
+
+tags: [Achievement-gap, standards-based-practices, No-child-left-behind, math-education-reform, science-education-reform, pedagogy]
+
 ---
 
 ## Author(s): Thompson, Carla J.

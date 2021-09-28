@@ -4,7 +4,9 @@ title: Navigating the Journey to Culturally Responsive Teaching- Lessons from th
 date: 2021-02-09
 comments: true
 categories: Blog
-tags: 'ulturally Responsive Teaching', 'Sociocultural Issues', 'Racism', 'Sexism', 'Ableism', 'Hetero-sexism', 'Anti-semitism', 'Testing', 'Learning Environment', 'Classroom Community'
+
+tags: [ulturally-Responsive-Teaching, Sociocultural-Issues, Racism, Sexism, Ableism, Hetero-sexism, Anti-semitism, Testing, Learning-Environment, Classroom-Community]
+
 ---
 
 ## Author(s): Coffey, Heather, Abiola Farinde-Wu

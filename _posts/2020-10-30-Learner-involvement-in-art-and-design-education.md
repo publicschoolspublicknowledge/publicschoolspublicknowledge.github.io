@@ -4,7 +4,9 @@ title: Learner involvement in art and design education assessment- The missing m
 date: 2020-10-30
 comments: true
 categories: Blog
-tags: 'Aesthetics', 'art education', 'artistic growth', 'assessment in art', 'evaluation of artworks'
+
+tags: [Aesthetics, art-education, artistic-growth, assessment-in-art, evaluation-of-artworks]
+
 ---
 
 ## Author(s): Magdeline C Mannathoko, Attwell Mamvuto

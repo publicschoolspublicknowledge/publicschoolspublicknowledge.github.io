@@ -4,7 +4,9 @@ title: Including Students With Disabilities in a Foreign Language Class.
 date: 2021-02-09
 comments: true
 categories: Blog
-tags: 'Learning Disabilities', 'Foreign Language', 'Adaptations', 'IEPs', 'Special Education Resource Teachers', 'Inclusion', 'Diversity', 'Accommodations', 'Development', 'Social and Emotional Development'
+
+tags: [Learning-Disabilities, Foreign-Language, Adaptations, IEPs, Special-Education-Resource-Teachers, Inclusion, Diversity, Accommodations, Development, Social-and-Emotional-Development]
+
 ---
 
 ## Author(s): Duvall, Emily D

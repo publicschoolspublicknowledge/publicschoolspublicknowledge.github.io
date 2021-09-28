@@ -4,7 +4,9 @@ title: Facilitating Quality Language Interpretation for Families of Diverse Stud
 date: 2021-02-09
 comments: true
 categories: Blog
-tags: 'disabilities', 'diversity', 'language interpretation', 'school-based teams'
+
+tags: [disabilities, diversity, language-interpretation, school-based-teams]
+
 ---
 
 ## Author(s): Hart, Juliet E., Gregory Cheatham, Margarita Jimenez-Silva

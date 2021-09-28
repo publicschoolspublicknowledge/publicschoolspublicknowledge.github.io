@@ -4,7 +4,9 @@ title: Building Bridges From Classrooms to Networked Publics- Helping Students W
 date: 2021-02-08
 comments: true
 categories: Blog
-tags: 'networked publics', 'creative writing', 'writing assessment', 'fanfiction', 'literacy'
+
+tags: [networked-publics, creative-writing, writing-assessment, fanfiction, literacy]
+
 ---
 
 ## Author(s): Lammers, Jayne C., Judith H. Van Alstyne

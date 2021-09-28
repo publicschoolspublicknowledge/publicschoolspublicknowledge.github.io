@@ -4,7 +4,9 @@ title: Inclusive Social Studies Content Instruction for Students with Significan
 date: 2021-02-08
 comments: true
 categories: Blog
-tags: 'intellectual disabilities', 'learning disabilities', 'social studies', 'civic competence', 'embedded instruction', 'structured inquiry'
+
+tags: [intellectual-disabilities, learning-disabilities, social-studies, civic-competence, embedded-instruction, structured-inquiry]
+
 ---
 
 ## Author(s): Ryan, Joanna, J. Matt Jameson, Olivia Fudge Coleman, Carrie Eichelberger, Jessica A. Bowman, Lyndsey Aiono Conradi, Susan S. Johnston, John McDonnell

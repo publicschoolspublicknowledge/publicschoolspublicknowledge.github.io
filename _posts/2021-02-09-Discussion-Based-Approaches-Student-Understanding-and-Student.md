@@ -4,7 +4,9 @@ title: Discussion-Based Approaches, Student Understanding, and Student Achieveme
 date: 2021-02-09
 comments: true
 categories: Blog
-tags: 'Student Achievement', 'Discussion', 'Lower Track Classes', 'English and Language Arts', 'Literacy'
+
+tags: [Student-Achievement, Discussion, Lower-Track-Classes, English-and-Language-Arts, Literacy]
+
 ---
 
 ## Author(s): VandeWeghe. Rick

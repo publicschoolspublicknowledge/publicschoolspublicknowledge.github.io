@@ -4,7 +4,9 @@ title: Strategies for Aligning Standards-Based Education and Transition
 date: 2021-02-09
 comments: true
 categories: Blog
-tags: 'Students with Disabilities', 'Employment', 'Educational Policy', 'Transition', 'IEPs', 'College Prep', 'No Child Left Behind', 'Rehabilitation Act'
+
+tags: [Students-with-Disabilities, Employment, Educational-Policy, Transition, IEPs, College-Prep, No-Child-Left-Behind, Rehabilitation-Act]
+
 ---
 
 ## Author(s): Bassett, Diane S., Carol A. Kochhar-Bryant

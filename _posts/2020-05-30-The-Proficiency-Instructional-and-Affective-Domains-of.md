@@ -4,7 +4,9 @@ title: The Proficiency, Instructional and Affective Domains of Long Term English
 date: 2020-05-30
 comments: true
 categories: Blog
-tags: 'English language learners', 'long-term English language learners', 'bilingualism', 'language proficiency'
+
+tags: [English-language-learners, long-term-English-language-learners, bilingualism, language-proficiency]
+
 ---
 
 ## Author(s): Artigliere, Marcus

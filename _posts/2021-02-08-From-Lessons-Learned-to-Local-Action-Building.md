@@ -4,7 +4,9 @@ title: From Lessons Learned to Local Action- Building Your Own Policies for Effe
 date: 2021-02-08
 comments: true
 categories: Blog
-tags: 'arts education', 'funding', 'community partnerships', 'arts advocacy', 'vision', 'leadership'
+
+tags: [arts-education, funding, community-partnerships, arts-advocacy, vision, leadership]
+
 ---
 
 ## Author(s): Remer, Jane

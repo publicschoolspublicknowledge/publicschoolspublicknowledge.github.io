@@ -4,7 +4,9 @@ title: Introducing Service Learning into a School- Engaging Students, Teachers a
 date: 2021-02-09
 comments: true
 categories: Blog
-tags: 'Service Learning', 'Learning Objectives', 'Rural Schools', 'Community Engagement'
+
+tags: [Service-Learning, Learning-Objectives, Rural-Schools, Community-Engagement]
+
 ---
 
 ## Author(s): Bludau, Jo Ann

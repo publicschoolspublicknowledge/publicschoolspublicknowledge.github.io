@@ -4,7 +4,9 @@ title: Using Nonword Repetition Tasks for the Identification of Language Impairm
 date: 2020-08-25
 comments: true
 categories: Blog
-tags: 'Bilingual Students', 'Spanish-speaking Students', 'English-speaking students', 'Screening for Language Impairment', 'Typical Language Development', 'Nonword Repetition Task'
+
+tags: [Bilingual-Students, Spanish-speaking-Students, English-speaking-students, Screening-for-Language-Impairment, Typical-Language-Development, Nonword-Repetition-Task]
+
 ---
 
 ## Author(s): Gutierrez-Clellen, Vera F and Gabriela Simon-Cereijido

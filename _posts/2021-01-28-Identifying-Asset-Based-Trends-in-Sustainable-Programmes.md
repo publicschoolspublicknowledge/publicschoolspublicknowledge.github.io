@@ -4,7 +4,9 @@ title: Identifying Asset-Based Trends in Sustainable Programmes Which Support Vu
 date: 2021-01-28
 comments: true
 categories: Blog
-tags: 'collaborative support', 'inclusive education', 'schools as nodes of care and support', 'community leaders', 'HIV/AIDS', 'poverty', 'inclusion', 'community empowerment'
+
+tags: [collaborative-support, inclusive-education, schools-as-nodes-of-care-and-support, community-leaders, HIV/AIDS, poverty, inclusion, community-empowerment]
+
 ---
 
 ## Author(s): Ebersöhn, Liesel & Irma Eloff

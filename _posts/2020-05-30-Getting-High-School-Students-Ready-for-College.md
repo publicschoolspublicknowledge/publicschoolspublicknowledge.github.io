@@ -4,7 +4,9 @@ title: Getting High School Students Ready for College- A Quantitative Study of S
 date: 2020-05-30
 comments: true
 categories: Blog
-tags: 'High School Students', 'College Bound Students', 'College Readiness', 'Statistical Analysis', 'Grading', 'Academic Standards', 'Quasiexperimental Design', 'College Entrance Examinations', 'Grade Point Average', 'Standardized Tests', 'Scores', 'Comparative Analysis', 'Multiple Regression Analysis', 'College Admission', 'Prediction'
+
+tags: [High-School-Students, College-Bound-Students, College-Readiness, Statistical-Analysis, Grading, Academic-Standards, Quasiexperimental-Design, College-Entrance-Examinations, Grade-Point-Average, Standardized-Tests, Scores, Comparative-Analysis, Multiple-Regression-Analysis, College-Admission, Prediction]
+
 ---
 
 ## Author(s): Townsley, Matt; Varga, Matt

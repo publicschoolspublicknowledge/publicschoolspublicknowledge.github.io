@@ -4,7 +4,9 @@ title: Until Somebody Hears Me- Parent Voice and Advocacy in Special Educational
 date: 2020-03-31
 comments: true
 categories: Blog
-tags: 'guardians of students with disabilities', 'guardian psychoeducation'
+
+tags: [guardians-of-students-with-disabilities, guardian-psychoeducation]
+
 ---
 
 ## Author(s): Hess, Robyn S. Amy M. Molina and Elizabeth B. Kozleski

@@ -4,7 +4,9 @@ title: Linguistics in Middle School- Incorporating Linguistics into Project-Base
 date: 2021-01-28
 comments: true
 categories: Blog
-tags: 'linguistics', 'K–12 education', 'project-based learning', 'middle-school linguistics'
+
+tags: [linguistics, K–12-education, project-based-learning, middle-school-linguistics]
+
 ---
 
 ## Author(s): Bateman, Nicoleta

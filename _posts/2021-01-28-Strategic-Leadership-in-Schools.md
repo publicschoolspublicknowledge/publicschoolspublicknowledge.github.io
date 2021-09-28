@@ -4,7 +4,9 @@ title: Strategic Leadership in Schools
 date: 2021-01-28
 comments: true
 categories: Blog
-tags: 'leadership', 'strategic leadership', 'strategy', 'vision', 'school planning'
+
+tags: [leadership, strategic-leadership, strategy, vision, school-planning]
+
 ---
 
 ## Author(s): Williams, Henry S. & Tyrel L. Johnson

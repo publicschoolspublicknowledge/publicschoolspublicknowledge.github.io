@@ -4,7 +4,9 @@ title: Transformational Opportunities- Language and Literacy Instruction for Eng
 date: 2020-11-02
 comments: true
 categories: Blog
-tags: 'Scaffolding', 'Common Core', 'English Language Learners', 'English Language Arts Standards', 'Minority Students', 'Second Language Acquisition', 'Apprenticeship', 'Diverse Groups of Students'
+
+tags: [Scaffolding, Common-Core, English-Language-Learners, English-Language-Arts-Standards, Minority-Students, Second-Language-Acquisition, Apprenticeship, Diverse-Groups-of-Students]
+
 ---
 
 ## Author(s): Amanda K Kibler, Aída Walqui, George C Bunch

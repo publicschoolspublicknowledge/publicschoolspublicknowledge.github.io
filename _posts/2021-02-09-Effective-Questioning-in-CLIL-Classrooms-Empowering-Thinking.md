@@ -4,7 +4,9 @@ title: Effective Questioning in CLIL Classrooms- Empowering Thinking
 date: 2021-02-09
 comments: true
 categories: Blog
-tags: 'bilingual', 'multilingual', 'questioning', 'taxonomy for learning', 'content', 'language', 'knowledge construction'
+
+tags: [bilingual, multilingual, questioning, taxonomy-for-learning, content, language, knowledge-construction]
+
 ---
 
 ## Author(s): Caravaca, R. V.

@@ -4,7 +4,9 @@ title: Increasing Students’ In-Class Engagement through Public Commenting- An 
 date: 2020-05-20
 comments: true
 categories: Blog
-tags: 'Public display', 'active learning environment', 'student engagement'
+
+tags: [Public-display, active-learning-environment, student-engagement]
+
 ---
 
 ## Author(s):  Du.Honglu, Hao Jiang, MaryBeth Rosson & John M. Carroll 

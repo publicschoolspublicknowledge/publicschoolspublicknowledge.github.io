@@ -4,7 +4,9 @@ title: Practices That Support Leadership Succession and Principal Retention
 date: 2020-11-02
 comments: true
 categories: Blog
-tags: 'principal retention', 'leadership development', 'educational leadership', 'succession', 'succession planning', 'district leadership', 'assistant principals'
+
+tags: [principal-retention, leadership-development, educational-leadership, succession, succession-planning, district-leadership, assistant-principals]
+
 ---
 
 ## Author(s): Amie B Cieminski

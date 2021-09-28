@@ -4,7 +4,9 @@ title: Transformational Assessment- A Simplified Model of Strategic Planning
 date: 2020-11-02
 comments: true
 categories: Blog
-tags: 'Strategic Planning', 'Transformational Assessment', 'School Reform', 'Educational Leadership', 'Change'
+
+tags: [Strategic-Planning, Transformational-Assessment, School-Reform, Educational-Leadership, Change]
+
 ---
 
 ## Author(s): Rebecca Bardwell

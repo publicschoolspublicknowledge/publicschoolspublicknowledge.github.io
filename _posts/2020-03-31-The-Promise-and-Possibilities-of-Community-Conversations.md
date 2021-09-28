@@ -4,7 +4,9 @@ title: The Promise and Possibilities of Community Conversations- Expanding Oppor
 date: 2020-03-31
 comments: true
 categories: Blog
-tags: 'community conversations', 'students with disabilities', 'transitioning out of high school'
+
+tags: [community-conversations, students-with-disabilities, transitioning-out-of-high-school]
+
 ---
 
 ## Author(s): Carter, Erik W and Jennifer L. Bumble

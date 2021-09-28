@@ -4,7 +4,9 @@ title: Creating a Meaningful Music Curriculum for Students With Disabilities
 date: 2020-05-21
 comments: true
 categories: Blog
-tags: 'functional curriculum', 'general music', 'inclusion', 'students with disabilities'
+
+tags: [functional-curriculum, general-music, inclusion, students-with-disabilities]
+
 ---
 
 ## Author(s): Draper, Ellary A.  

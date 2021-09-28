@@ -4,7 +4,9 @@ title: How Can We Elicit More Complex Thinking in Year 7 Students for Understand
 date: 2021-02-08
 comments: true
 categories: Blog
-tags: 'complex personal viewpoints', 'life-issues', 'personal viewpoints', 'viewpoint choices'
+
+tags: [complex-personal-viewpoints, life-issues, personal-viewpoints, viewpoint-choices]
+
 ---
 
 ## Author(s): Smith, Thomas Richard, Anne Lesley Knowles

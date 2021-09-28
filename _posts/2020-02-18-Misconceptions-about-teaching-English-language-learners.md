@@ -4,7 +4,9 @@ title: Misconceptions about teaching English-language learners
 date: 2020-02-18
 comments: true
 categories: Blog
-tags: 'English Language Learners', 'Second Language Learning', 'Misconceptions', 'Learning Processes', 'Teaching Methods', 'Knowledge Base for Teaching', 'Academic Discourse', 'English (Second Language)', 'Academic Achievement', 'Student Needs'
+
+tags: [English-Language-Learners, Second-Language-Learning, Misconceptions, Learning-Processes, Teaching-Methods, Knowledge-Base-for-Teaching, Academic-Discourse, English-(Second-Language), Academic-Achievement, Student-Needs]
+
 ---
 
 ## Author(s): Harper, Candace Ester de Jong

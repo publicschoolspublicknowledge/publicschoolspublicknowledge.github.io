@@ -4,7 +4,9 @@ title: Assessment "for" Learning- Using Formative Assessment in Problem- and Pro
 date: 2020-06-20
 comments: true
 categories: Blog
-tags: 'Formative Evaluation', 'Problem Based Learning', 'Student Projects', 'Active Learning', 'Science Instruction', 'Feedback (Response)', 'Student Evaluation', 'Teaching Methods', 'Learning'
+
+tags: [Formative-Evaluation, Problem-Based-Learning, Student-Projects, Active-Learning, Science-Instruction, Feedback-(Response), Student-Evaluation, Teaching-Methods, Learning]
+
 ---
 
 ## Author(s): Trauth-Nare, Amy; Buck, Gayle

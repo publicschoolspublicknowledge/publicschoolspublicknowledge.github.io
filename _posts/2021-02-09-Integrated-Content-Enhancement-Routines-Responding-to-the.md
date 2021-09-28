@@ -4,7 +4,9 @@ title: Integrated Content Enhancement Routines- Responding to the Needs of Adole
 date: 2021-02-09
 comments: true
 categories: Blog
-tags: 'Learning Disabilities', 'Content Enhancement', 'Routines', 'Collaboration', 'Inclusion'
+
+tags: [Learning-Disabilities, Content-Enhancement, Routines, Collaboration, Inclusion]
+
 ---
 
 ## Author(s): Bulgren, Janis A.

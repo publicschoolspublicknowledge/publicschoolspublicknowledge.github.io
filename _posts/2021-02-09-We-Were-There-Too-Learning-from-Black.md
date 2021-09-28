@@ -4,7 +4,9 @@ title: We Were There Too- Learning from Black Male Teachers in Mississippi about
 date: 2021-02-09
 comments: true
 categories: Blog
-tags: 'Black Male', 'Critical Race Theory', 'Black Students', 'Educational Inequity', 'School to Prison Pipeline', 'Segregation', 'Integration', 'Racism', 'Mentorship'
+
+tags: [Black-Male, Critical-Race-Theory, Black-Students, Educational-Inequity, School-to-Prison-Pipeline, Segregation, Integration, Racism, Mentorship]
+
 ---
 
 ## Author(s): Hayes, Cleveland, Brenda Juarez, and Veronica Escoffery-Runnels

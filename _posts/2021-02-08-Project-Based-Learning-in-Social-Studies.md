@@ -4,7 +4,9 @@ title: Project-Based Learning in Social Studies
 date: 2021-02-08
 comments: true
 categories: Blog
-tags: 'project-based learning', 'social studies', 'problem-based learning', 'authenticity', 'history'
+
+tags: [project-based-learning, social-studies, problem-based-learning, authenticity, history]
+
 ---
 
 ## Author(s): Larmer, John

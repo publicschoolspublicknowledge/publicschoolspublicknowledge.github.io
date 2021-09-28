@@ -4,7 +4,9 @@ title: Urban School Principals and Their Role as Multicultural Leaders
 date: 2020-03-09
 comments: true
 categories: Blog
-tags: 'multicultural leadership', 'principal preparation', 'diversity', 'school administration'
+
+tags: [multicultural-leadership, principal-preparation, diversity, school-administration]
+
 ---
 
 ## Author(s): Gardiner, Mary E., and Ernestine K. Enomoto.

@@ -4,7 +4,9 @@ title: What K-12 Teachers Need to Know About Teaching Gifted Black Girls Battlin
 date: 2020-10-14
 comments: true
 categories: Blog
-tags: 'gifted', 'black girls', 'stereotype threat', 'perfectionism', 'stress', 'race', 'gender', 'academic performance', 'advanced placement', 'strong black woman'
+
+tags: [gifted, black-girls, stereotype-threat, perfectionism, stress, race, gender, academic-performance, advanced-placement, strong-black-woman]
+
 ---
 
 ## Author(s): Brittany N. Anderson, PhD
